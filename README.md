@@ -4,11 +4,11 @@ Notes from Scott Druker's math classes. Written in a combination of Markdown, HT
 
 ## Units
 
-### :chart_with_upwards_trend: Precalculus
+### Precalculus
 
 - 
 
-### :chart_with_downwards_trend: Calculus
+### Calculus
 
 - Limits
   - The Tangent Problem
