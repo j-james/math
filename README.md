@@ -1,14 +1,14 @@
-# :heavy_division_sign: math
+<h1 align=center> math </h1>
 
-Notes from Scott Druker's math classes. Written in a combination of Markdown, HTML, and LaTeX.
+Notes from Scott Druker's calculus classes. Written in a combination of Markdown, HTML, and LaTeX.
 
 ## Units
 
-### Precalculus
+### precalculus
 
 - 
 
-### Calculus
+### calculus
 
 - Limits
   - The Tangent Problem
