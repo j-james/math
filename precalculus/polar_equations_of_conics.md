@@ -16,7 +16,7 @@ if $e > 1$, the conic is a hyperbola
 
 ![Conic Sections](assets/polar_equations_of_conics_1.png)
 
-## Derivation
+### Derivation
 
 For any point $P(x, y)$ on the curve $D(x, y)$ on the directrix and $F(x, y)$ the focus at pole, the ratio of $PF/PD$ equals the eccentricity. $k$ is the distance between the focus and directrix.
 
@@ -24,7 +24,7 @@ $$e = \frac{PF}{PD} \Rightarrow PF = e * PD$$
 
 ![Derivation](assets/polar_equations_of_conics_2.jpg)
 
-## Polar form of Conic Definition
+### Polar form of Conic Definition
 
 The graph of a conic in polar form, with *focus at pole*, is given by
 

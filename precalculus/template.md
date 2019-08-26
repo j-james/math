@@ -7,4 +7,3 @@ You should be able to
 - [ ] Consectetur adipiscing elit
 
 ## Concepts / Definitions
-

@@ -27,7 +27,7 @@ Recursive Rule: $a_n = a_{n-1} * r$ for $n \geq 2$
 A **geometric sequence** has an explicit rule or form $a_n = a_1 r^{n-1}$, where $r$ is the *common ratio* between terms.\
 Recursive Rule: $a_n = a_{n-1} * r$ for $n \geq 2$
 
-## Fibonacci Sequence
+### Fibonacci Sequence
 
 $$ a_1 = 1, \quad a_2 = 2, \quad a_n a_{n-2} + a_{n-1}$$
 

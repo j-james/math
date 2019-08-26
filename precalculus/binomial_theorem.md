@@ -26,13 +26,13 @@ $$_3C_0\ _3C_1\ _3C_2\ _3C_3$$
 $$_4C_0\ _4C_1\ _4C_2\ _4C_3\ _4C_4$$
 $$_5C_0\ _5C_1\ _5C_2\ _5C_3\ _5C_4\ _5C_5$$
 
-## Binomial Theorem
+### Binomial Theorem
 
 $$(a + b)^n = \sum_{k=0}^{n} (\binom{n}{k} a^{n-k} b^k$$
 
 $$(a + b)^n = nC_0 a^n b^0 + nC_1 a^{n-1} b^1 + nC_2 a^{n-2} b^2 + ... + nC_{n-1} a^1 b^{n-1} + nC_n a^0 b^n$$
 
-## Pascal's Triangle
+### Pascal's Triangle
 
 ![Head and Tail Categories](assets/binomial_theorem_1.gif)
 

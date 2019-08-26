@@ -11,7 +11,7 @@ You should be able to
 
 A polar coordinate system is when points can be graphed from a directed distance and angle. The distance from the pole is called the radical coordinate, or **radius**, and the angle is called the angular coordinate, or **azimuth / polar angle**.
 
-## Polar Coordinate System
+### Polar Coordinate System
 
 The **Pole**: Point $O$\
 The **Polar Axis**: ray from point $O$ along positive x-axis\
@@ -26,11 +26,11 @@ $\theta$ is directed angle from polar axis
 
 ![Polar Graphs](assets/intro_to_polar_coordinates_2.jpg)
 
-## Examples
+#### Examples
 
 If the point $P$ has polar coordinates $(r, \theta)$, **all other polar coordinates** of $P$ must have the form $(r, \theta + 2 \pi n)$ or $(-r, \theta + \pi + 2 \pi n)$ where $n$ is any integer.
 
-## Coordinate Conversions
+### Coordinate Conversions
 
 If the point $P$ has polar coordinates $(r, \theta)$ and rectangular coordinates $(x, y)$, then
 
