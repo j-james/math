@@ -10,6 +10,7 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - [x] Binomial Theorem
 - [ ] Intro to Polar Coordinates
 - [ ] Polar Equations of Conics
+- [x] Probability
 - [x] Sequences
 - [ ] Series
 
