@@ -26,7 +26,7 @@ $\theta$ is directed angle from polar axis
 
 ![Polar Graphs](assets/intro_to_polar_coordinates_2.jpg)
 
-## Examples <!--RENAME-->
+## Examples
 
 If the point $P$ has polar coordinates $(r, \theta)$, **all other polar coordinates** of $P$ must have the form $(r, \theta + 2 \pi n)$ or $(-r, \theta + \pi + 2 \pi n)$ where $n$ is any integer.
 
