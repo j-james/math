@@ -18,6 +18,7 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - [x] Probability
 - [x] Sequences
 - [ ] Series
+- [ ] Vectors in the Plane
 
 ### calculus
 
