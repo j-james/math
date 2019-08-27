@@ -8,6 +8,7 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 
 - [x] Template
 - [x] Binomial Theorem
+- [x] Classification and Rotation of Conics
 - [x] Eccentricity and Orbits
 - [ ] Intro to Polar Coordinates
 - [x] Matrices
