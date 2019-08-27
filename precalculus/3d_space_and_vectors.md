@@ -104,7 +104,7 @@ where $n_1$ and $n_2$ are the normal vectors of the two planes.
 The **equation of the line of intersection of the two planes**, in parametric form, can be found by using the cross product of the two normal vectors of the planes and a point on the line. The cross product vector will be parallel to both planes, and wll be in the direction of the line.
 
 The **distance between a plane and a point $Q$** (that is not in the plane) is
-$$d = |proj_n \overrightarrow{PQ}|$$
+$$d = |proj_n\overrightarrow{PQ}|$$
 where $P$ is a point in the plane and $n$ is a vector normal to the plane.
 
 ![Projection](assets/3d_space_and_vectors_11.png)

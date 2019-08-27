@@ -10,6 +10,7 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - [ ] 3D Space and Vectors
 - [x] Binomial Theorem
 - [x] Classification and Rotation of Conics
+- [ ] Dot Product of Vectors in the Plane
 - [x] Eccentricity and Orbits
 - [ ] Intro to Polar Coordinates
 - [x] Matrices
