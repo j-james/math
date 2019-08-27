@@ -32,8 +32,7 @@ If the point $P$ has polar coordinates $(r, \theta)$, **all other polar coordina
 
 ### Coordinate Conversions
 
-If the point $P$ has polar coordinates $(r, \theta)$ and rectangular coordinates $(x, y)$, then
-
+If the point $P$ has polar coordinates $(r, \theta)$ and rectangular coordinates $(x, y)$, then\
 $x = r\cos{\theta}, \qquad y = r \sin{\theta}$\
 $\tan{\theta} = \frac{y}{x}, \qquad x^2 + y^2 = r^2$
 

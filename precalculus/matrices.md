@@ -13,33 +13,32 @@ You should be able to
 
 Let $m$ and $n$ be positive integers. An $m$ by $n$ **matrix** is a rectangular array of $m$ rows by $n$ columns of real numbers.
 
-#### Elements of a Matrix
+### Elements of a Matrix
 
-$m$ = number of rows
-$n$ = number of columns
-$a_{mn}$ = any element in row $m$ and column $n$
+$m$ = number of rows\
+$n$ = number of columns\
+$a_{mn}$ = any element in row $m$ and column $n$\
 $m \times n$ = dimension of a matrix
 
-$$A = \begin{bmatrix}
+$$
+A =
+\begin{bmatrix}
     a_{11}&a_{12}&\dots&a_{1n}\\
     a_{21}&a_{22}&\dots&a_{2n}\\
     \vdots&\vdots&\ddots&\vdots\\
     a_{m1}&a_{m2}&\dots&a_{mn}\\
-    \end{bmatrix}
+\end{bmatrix}
 $$
 
 ### Operations
 
 #### Add / Subtract
-
 Add / subtract corresponding entries, same size matrix.
 
 #### Scalar Multiplication
-
 Multiply each entry by the scalar number, same size matrix.
 
 #### Matrix Multiplication (NOT commutative)
-
 Multiply each row of first by each column of second; need to correspond accordingly and each matrix and answer may not be same size
 
 ![Dot Product](assets/matrices_1.svg)
@@ -69,7 +68,8 @@ I_1 = [1] ,\ I_2 =
 \end{bmatrix}
 $$
 
-$AB \ =
+$
+    AB \ =
     \begin{bmatrix}
         \ \ \ 3&\ \ \ 4\\
         -1&-1\\
@@ -79,19 +79,22 @@ $AB \ =
         \ \ \ 1&\ \ \ 3\\
     \end{bmatrix}
 $\
-$\qquad =
+$
+    \qquad =
     \begin{bmatrix}
         (3*-1)+(4*1)&(3*-4)+(4*3)\\
         (-1*-1)+(-1*1)&(-1*-4)+(-1*3)\\
     \end{bmatrix}
 $\
-$\qquad =
+$
+    \qquad =
     \begin{bmatrix}
         -3+4&-12+12\\
         1+-1&4+-3\\
     \end{bmatrix}
 $\
-$\qquad =
+$
+    \qquad =
     \begin{bmatrix}
         1&0\\
         0&1\\
@@ -100,7 +103,8 @@ $
 
 ### Determinants for 2x2 and 3x3
 
-$$A =
+$$
+A =
 \begin{bmatrix}
     a&b\\
     c&d\\
@@ -114,28 +118,25 @@ $
         d&e&f\\
         g&h&i\\
     \end{vmatrix}
-$
-$\; =\ a
+    \; =\ a
     \begin{vmatrix}
         e&f\\
         h&i\\
     \end{vmatrix}
-$
-$-\ b
+    -\ b
     \begin{vmatrix}
         d&f\\
         g&i\\
     \end{vmatrix}
-$
-$+\ c
+    +\ c
     \begin{vmatrix}
         d&e\\
         g&h\\
     \end{vmatrix}
 $\
-$\qquad \qquad \qquad = a(ei-fh) - b(di-fg) + c(dh-eg)$\
-$\qquad \qquad \qquad = aei - afh - bdi - + bfg + cdh - ceg$\
-$\qquad \qquad \qquad = (aei + bfg + cdh) - (afh + bdi + ceg)$
+$\;\quad\qquad\qquad = a(ei-fh) - b(di-fg) + c(dh-eg)$\
+$\;\quad\qquad\qquad = aei - afh - bdi - + bfg + cdh - ceg$\
+$\;\quad\qquad\qquad = (aei + bfg + cdh) - (afh + bdi + ceg)$
 
 ### Inverse Matrices
 
@@ -152,53 +153,56 @@ A^{-1} =
 \end{bmatrix}
 $$
 
+$$\ $$
+
 $$
 A^{-1} = \frac{1}{|A|}
 \begin{bmatrix}
-    \begin{bmatrix}
+    \begin{vmatrix}
         a_{22}&&a_{23}\\
         a_{32}&&a_{33}\\
-    \end{bmatrix}&
-    \begin{bmatrix}
+    \end{vmatrix}&
+    \begin{vmatrix}
         a_{13}&&a_{12}\\
         a_{33}&&a_{32}\\
-    \end{bmatrix}&
-    \begin{bmatrix}
+    \end{vmatrix}&
+    \begin{vmatrix}
         a_{12}&&a_{13}\\
         a_{22}&&a_{23}\\
-    \end{bmatrix}\\
+    \end{vmatrix}\\
 
-    \begin{bmatrix}
+    \begin{vmatrix}
         a_{23}&&a_{21}\\
         a_{33}&&a_{31}\\
-    \end{bmatrix}&
-    \begin{bmatrix}
+    \end{vmatrix}_{\;}&
+    \begin{vmatrix}
         a_{11}&&a_{13}\\
         a_{31}&&a_{33}\\
-    \end{bmatrix}&
-    \begin{bmatrix}
+    \end{vmatrix}_{\;}&
+    \begin{vmatrix}
         a_{13}&&a_{11}\\
         a_{23}&&a_{21}\\
-    \end{bmatrix}\\
+    \end{vmatrix}_{\;}\\
 
-    \begin{bmatrix}
+    \begin{vmatrix}
         a_{21}&&a_{22}\\
         a_{31}&&a_{31}\\
-    \end{bmatrix}&
-    \begin{bmatrix}
+    \end{vmatrix}&
+    \begin{vmatrix}
         a_{12}&&a_{11}\\
         a_{32}&&a_{31}\\
-    \end{bmatrix}&
-    \begin{bmatrix}
+    \end{vmatrix}&
+    \begin{vmatrix}
         a_{11}&&a_{12}\\
         a_{21}&&a_{22}\\
-    \end{bmatrix}\\
+    \end{vmatrix}\\
 \end{bmatrix}
 $$
 
-$$A x A^{-1} = I$$
+$$\ $$
 
 $$
+A x A^{-1} = I \implies
 \begin{bmatrix}
     1&2&3\\
     4&5&6\\
@@ -206,9 +210,9 @@ $$
 \end{bmatrix}
 \times
 \begin{bmatrix}
-    \ &\ &\ \\
-    \ &\ &\ \\
-    \ &\ &\ \\
+    \;&\;&\;\\
+    \;&\;&\;\\
+    \;&\;&\;\\
 \end{bmatrix}
 =
 \begin{bmatrix}
@@ -220,11 +224,11 @@ $$
 
 ### Solving a Matrix Equation
 
-$AX = B$ Given; since A is $n \times n$, $X$ must by $n \times p$\
-$A^{-1}(AX) = A^{-1}B$ Multiply on the left by $A^{-1}$\
-$(A^{-1}A)X = A^{-1}B$ Associative property of matrices\
-$(I_n)X = A^{-1}B$ Property of matrix inverses\
-$X = A^{-1}B$ Property of the identity matrix
+$AX = B \quad\qquad\qquad$ Given; since A is $n \times n$, $X$ must by $n \times p$\
+$A^{-1}(AX) = A^{-1}B \:\;\;$ Multiply on the left by $A^{-1}$\
+$(A^{-1}A)X = A^{-1}B \:\;\;$ Associative property of matrices\
+$(I_n)X = A^{-1}B \:\qquad$ Property of matrix inverses\
+$X = A^{-1}B \,\:\;\;\quad\qquad$ Property of the identity matrix
 
 #### Solving Example
 

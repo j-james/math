@@ -27,11 +27,9 @@ $$e = \frac{PF}{PD} \Rightarrow PF = e * PD$$
 ### Polar form of Conic Definition
 
 The graph of a conic in polar form, with *focus at pole*, is given by
-
 $$r = \frac{ek}{1 \pm e \cos{\theta}}\ or\ r = \frac{ek}{1 \pm e \sin{\theta}}$$
-
 where $e$ = eccentricity, and $k$ is the distance between the focus and directrix.\
-Directrix is perpendicular to the major axis, the axis of symmetry, and the transverse axis.
+The directrix is perpendicular to the major axis, the axis of symmetry, and the transverse axis.
 
 $$e = \frac{distance\ to\ focus}{distance\ to\ directrix} = \frac{PF}{PD} = \frac{c}{a}$$
 
