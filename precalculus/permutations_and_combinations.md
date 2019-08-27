@@ -17,7 +17,7 @@ If you have four flavors of ice cream and two types of cones, then ther are $4 *
 
 In mathematics, the **factorial** of a non-negative integer $n$, denoted by $n!$, is the product of all positive integers less than or equal to $n$.
 
-$$n! = n(n-1)(n-2)(n-3)...(2)(1)$$
+$$n! = n(n-1)(n-2)(n-3)\ ...\ (2)(1)$$
 
 By definition, $0! = 1$.
 
@@ -28,7 +28,7 @@ $4!$ = 24 ways to order four items
 
 The number of permutations on $n$ objects taken $r$ at a time is given by
 
-$$P(\binom{n}{r}) = P(n, r) = nPr = \frac{n!}{(n-r)!}$$
+$$P\binom{n}{r} = P(n, r) = nPr = \frac{n!}{(n-r)!}$$
 
 The number of ways $n$ items can be *ordered with replacement $r$* times is **$n^r$**
 
@@ -40,9 +40,9 @@ $\frac{4!}{(4-3)!}$ = 24 ways of selecting and ordering 3 or 4 letters, but only
 **To take out all the ways $r$ can happen, we divide out all the ways $r!$ can happen.**\
 The number of combinitions of $n$ objects taken $r$ at a time is given by
 
-$$C(\binom{n}{r}) = C(n, r) = nCr = \frac{n!}{r!(n-r)!}$$
+$$C\binom{n}{r} = C(n, r) = nCr = \frac{n!}{r!(n-r)!}$$
 
-$\implies$ Also called $n$ choose $k$, noted (\binom{n}{k}) = \frac{n!}{k!(n-k)!}$
+$\implies$ Also called $n$ choose $k$, noted \binom{n}{k} = \frac{n!}{k!(n-k)!}$
 
 **Counting Subsets of an $n$-Set**\
 Consider a binomial situation, where there is a yes or no, success or failure, possibility happening $n$ times. The number of ways this can happen is $2^n$. There are $2^n$ subsets of a set with $n$ objects.

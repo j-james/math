@@ -9,6 +9,8 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - [x] Template
 - [x] Binomial Theorem
 - [ ] Intro to Polar Coordinates
+- [x] Matrices
+- [x] Permutations and Combinations
 - [ ] Polar Equations of Conics
 - [x] Probability
 - [x] Sequences
