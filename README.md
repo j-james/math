@@ -6,14 +6,14 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 
 ### precalculus
 
-- [x] Template
+- [x] [Template](precalculus/template.md)
 - [ ] 3D Space and Vectors
 - [x] Binomial Theorem
 - [x] Classification and Rotation of Conics
 - [ ] Dot Product of Vectors in the Plane
 - [x] Eccentricity and Orbits
 - [ ] Intro to Polar Coordinates
-- [x] Matrices
+- [x] [Matrices](precalculus/matrices.md)
 - [x] More on Limits and using calculator for Numerical Derivatives and Integrals
 - [x] Partial Fractions
 - [x] Permutations and Combinations
