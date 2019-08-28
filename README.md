@@ -28,3 +28,24 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - Limits
   - The Tangent Problem
   - Calculating Integrals
+
+## some sources
+
+### LaTeX Syntax
+
+- https://www.overleaf.com/learn/latex/Spacing_in_math_mode
+- https://www.overleaf.com/learn/latex/Line_breaks_and_blank_spaces
+- https://www.overleaf.com/learn/latex/Fractions_and_Binomials
+- https://www.overleaf.com/learn/latex/Mathematical_expressions
+- https://www.overleaf.com/learn/latex/Integrals,_sums_and_limits
+- https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols#Arrows
+
+### Images???
+
+- https://en.wikipedia.org/wiki/Cross_product
+- https://en.wikipedia.org/wiki/Euclidean_vector
+- https://en.wikipedia.org/wiki/Exterior_algebra
+- https://en.wikipedia.org/wiki/Three-dimensional_space
+- https://en.wikipedia.org/wiki/Polar_coordinate_system
+- https://commons.wikimedia.org/wiki/Polar_coordinate_system
+- https://commons.wikimedia.org/w/index.php?title=Special:Search&limit=500&offset=0&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1&search=vector+force&advancedSearch-current={}
