@@ -1,7 +1,9 @@
-<link rel="stylesheet" href="katex/katex.css">
-<script src="katex/katex.js"></script>
+<link rel="stylesheet" href="../katex/katex.css">
+<script src="../katex/katex.js"></script>
 
 # Matrices
+
+![binomial theorem](../calculus/binomial_theorem_1.gif)
 
 ## Learning Targets
 
