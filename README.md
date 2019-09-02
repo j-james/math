@@ -20,7 +20,7 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - [ ] Polar Equations of Conics
 - [x] Probability
 - [x] Sequences
-- [ ] Series
+- [ ] [Series](precalculus/series.md)
 - [ ] Vectors in the Plane
 
 ### calculus
