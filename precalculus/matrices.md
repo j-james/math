@@ -136,7 +136,7 @@ A =
 \quad |A| = ad - bc
 $$
 
-$
+$$
     \begin{vmatrix}
         a&b&c\\
         d&e&f\\
@@ -157,7 +157,7 @@ $
         d&e\\
         g&h\\
     \end{vmatrix}
-$\
+$$
 $\;\quad\qquad\qquad = a(ei-fh) - b(di-fg) + c(dh-eg)$\
 $\;\quad\qquad\qquad = aei - afh - bdi - + bfg + cdh - ceg$\
 $\;\quad\qquad\qquad = (aei + bfg + cdh) - (afh + bdi + ceg)$
