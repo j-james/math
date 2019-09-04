@@ -13,7 +13,7 @@ You should be able to
 A **series** is the sum of the terms of a sequence. A series can also be represented by using **summation notation**, which uses the Greek letter $\Sigma$ (capital *Sigma*) to denote the sum of a sequence in a condensed form, defined by a rule as shown.
 $$\sum_{k=1}^{n} a_k = a_1 + a_2 + a_3 + ... + a_n$$
 
-![Sum Series Formula](assets/series_1.jpg)
+![Sum Series Formula](../assets/precalculus/series_1.jpg)
 
 $$\sum_{k=1}^{5} 2k = 2(1) + 2(2) + 2(3) + 2(4) + 2(5)$$
 and the sum would equal 30.

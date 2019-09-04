@@ -16,7 +16,7 @@ if $0 < e < 1$, the conic is an ellipse\
 if $e = 1$, the conic is a parabola\
 if $e > 1$, the conic is a hyperbola
 
-![Conic Sections](assets/polar_equations_of_conics_1.png)
+![Conic Sections](../assets/precalculus/polar_equations_of_conics_1.png)
 
 ### Derivation
 
@@ -24,7 +24,7 @@ For any point $P(x, y)$ on the curve $D(x, y)$ on the directrix and $F(x, y)$ th
 
 $$e = \frac{PF}{PD} \Rightarrow PF = e * PD$$
 
-![Derivation](assets/polar_equations_of_conics_2.jpg)
+![Derivation](../assets/precalculus/polar_equations_of_conics_2.jpg)
 
 ### Polar form of Conic Definition
 

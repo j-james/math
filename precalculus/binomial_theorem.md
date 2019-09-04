@@ -36,7 +36,7 @@ $$(a + b)^n = nC_0 a^n b^0 + nC_1 a^{n-1} b^1 + nC_2 a^{n-2} b^2 + ... + nC_{n-1
 
 ### Binomial Theorem / Pascal's Triangle uses
 
-![Head and Tail Categories](assets/binomial_theorem_1.gif)
-![Powers of Elevens](assets/binomial_theorem_2.gif)
-![Number Patterns in diagonals](assets/binomial_theorem_3.jpg)
-![Shallow Diagonals](assets/binomial_theorem_4.gif)
+![Head and Tail Categories](../assets/precalculus/binomial_theorem_1.gif)
+![Powers of Elevens](../assets/precalculus/binomial_theorem_2.gif)
+![Number Patterns in diagonals](../assets/precalculus/binomial_theorem_3.jpg)
+![Shallow Diagonals](../assets/precalculus/binomial_theorem_4.gif)

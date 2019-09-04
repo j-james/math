@@ -33,8 +33,8 @@ Recursive Rule: $a_n = a_{n-1} * r$ for $n \geq 2$
 
 $$ a_1 = 1, \quad a_2 = 2, \quad a_n a_{n-2} + a_{n-1}$$
 
-![Fibonacci Sequence](assets/sequences_1.jpg)
-![Golden Ratio](assets/sequences_2.svg)
+![Fibonacci Sequence](../assets/precalculus/sequences_1.jpg)
+![Golden Ratio](../assets/precalculus/sequences_2.svg)
 
 As the spiral continues, the ratios of the numbers approach a number called the **Golden Ratio**.
 

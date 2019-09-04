@@ -17,8 +17,8 @@ The **dot product** of $\vec{u} = \langle u_1, u_2 \rangle$ and $\vec{v} = \lang
 $$\vec{u} \bullet \vec{v} = u_1 v_1 + u_2 v_2 \qquad \vec{u} \bullet \vec{v} = |\vec{u}| |\vec{v}| \cos{\theta}$$
 where $\theta$ is the angle between those vectors.
 
-![Dot Product Definition](assets/dot_product_of_vectors_in_the_plane_1.gif)
-![Dot Product Rotation](assets/dot_product_of_vectors_in_the_plane_2.png)
+![Dot Product Definition](../assets/precalculus/dot_product_of_vectors_in_the_plane_1.gif)
+![Dot Product Rotation](../assets/precalculus/dot_product_of_vectors_in_the_plane_2.png)
 
 The dot product is the magnitude amount of stretching / shrinking one vector by another vector, in the same direction of the one vector.
 
@@ -28,7 +28,7 @@ The vectors $\vec{u}$ and $\vec{v}$ are **orthogonal** iff $\vec{u} \bullet \vec
 The dot product formula, in terms of the angle, is
 $$\cos{\theta} = \frac{\vec{u} \bullet \vec{v}}{|u||v|}$$
 
-![Orthogonal Vectors](assets/dot_product_of_vectors_in_the_plane_3.png)
+![Orthogonal Vectors](../assets/precalculus/dot_product_of_vectors_in_the_plane_3.png)
 
 <!--Note: replace Note: with PRO TIP-->
 
@@ -39,7 +39,7 @@ Note: Orthogonal and perpendicular are *not exactly* the same. The zero vector i
 The projection of vector $\vec{u}$ onto vector $\vec{v}$ is
 $$proj_{v}u = (\frac{\vec{u} \bullet \vec{v}}{|\vec{v}|^2}) \vec{v} \qquad proj_vu = (\frac{|\vec{u}| |\vec{v}| \cos{\theta}}{|\vec{v}|^2}) \vec{v}$$
 
-![Projection of Vectors](assets/dot_product_of_vectors_in_the_plane_4.png)
+![Projection of Vectors](../assets/precalculus/dot_product_of_vectors_in_the_plane_4.png)
 
 Vector $\vec{u}$ as a sum of two orthogonal vectors.
 $$\vec{u} = proj_vu + \vec{s},\ \therefore \vec{s} = \vec{u} - proj_vu$$
@@ -48,6 +48,6 @@ $$\vec{u} = proj_vu + \vec{s},\ \therefore \vec{s} = \vec{u} - proj_vu$$
 
 If $\vec{F}$ is a constant force whose direction is the same as the direction of $\overrightarrow{AB}$, then the work $W$ done by $\vec{F}$ in moving an object from $A$ to $B$ is $W = |\vec{F}| |\overrightarrow{AB}|$.
 
-![Application](assets/dot_product_of_vectors_in_the_plane_5.png)
+![Application](../assets/precalculus/dot_product_of_vectors_in_the_plane_5.png)
 
 $$W = |F|d\cos{\theta}$$
