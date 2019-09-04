@@ -51,18 +51,18 @@ $$
 
 $$
 \begin{bmatrix}
-    \color{red}1&\color{red}2&\color{red}3\\
+    \color{red}{1}&\color{red}{2}&\color{red}{3}\\
     4&5&6\\
 \end{bmatrix}
 \times
 \begin{bmatrix}
-    \color{blue}7&8\\
-    \color{blue}9&10\\
-    \color{blue}11&12\\
+    \color{blue}{7}&8\\
+    \color{blue}{9}&10\\
+    \color{blue}{11}&12\\
 \end{bmatrix}
 =
 \begin{bmatrix}
-    \color{purple}58&\ \\
+    \color{purple}{58}&\ \\
     \ &\ \\
 \end{bmatrix}
 $$
