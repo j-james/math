@@ -1,6 +1,4 @@
-{% include mathjax.html %}
-
-# Matriceseses
+# Matrices
 
 ## Learning Targets
 
