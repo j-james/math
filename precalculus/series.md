@@ -1,6 +1,6 @@
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full' async></script>
+{% include mathjax.html %}
 
-# Seriess
+# Series
 
 ## Learning Targets
 

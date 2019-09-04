@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Eccentricity and Orbits
 
 ## Learning Targets

@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Permutations and Combinations
 
 ## Learning Targets

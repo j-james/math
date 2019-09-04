@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Binomial Theorem
 
 ## Learning Targets

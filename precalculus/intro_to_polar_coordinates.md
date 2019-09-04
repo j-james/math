@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Intro to Polar coordinates
 
 ## Learning Targets

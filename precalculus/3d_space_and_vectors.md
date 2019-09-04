@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # 3D Space and Vectors
 
 <!--https://en.wikipedia.org/wiki/Cross_product-->

@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Polar Equations of Conics
 
 ## Learning Targets

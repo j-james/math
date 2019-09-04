@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Dot Product of Vectors in the Plane
 
 ## Learning Targets:

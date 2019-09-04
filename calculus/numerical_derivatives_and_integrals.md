@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # More on Limits and calculating Numerical Derivatives / Integrals
 
 ## Learning Targets:

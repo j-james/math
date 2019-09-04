@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Classification and Rotation of Conics
 
 ## Learning Targets

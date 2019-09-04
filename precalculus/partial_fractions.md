@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Partial Fractions
 
 ## Learning Targets

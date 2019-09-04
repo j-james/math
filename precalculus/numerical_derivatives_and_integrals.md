@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # More on Limits and using calculator for Numerical Derivatives and Integrals
 
 ## Learning Targets

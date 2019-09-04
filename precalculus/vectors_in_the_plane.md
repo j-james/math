@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Vectors in the Plane
 
 ## Learning Targets
