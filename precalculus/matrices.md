@@ -92,7 +92,7 @@ I_1 = [1] ,\ I_2 =
 \end{bmatrix}
 $$
 
-$
+$$
     AB \ =
     \begin{bmatrix}
         \ \ \ 3&\ \ \ 4\\
@@ -102,28 +102,28 @@ $
         -1&-4\\
         \ \ \ 1&\ \ \ 3\\
     \end{bmatrix}
-$\
-$
+$$
+$$
     \qquad =
     \begin{bmatrix}
         (3*-1)+(4*1)&(3*-4)+(4*3)\\
         (-1*-1)+(-1*1)&(-1*-4)+(-1*3)\\
     \end{bmatrix}
-$\
-$
+$$
+$$
     \qquad =
     \begin{bmatrix}
         -3+4&-12+12\\
         1+-1&4+-3\\
     \end{bmatrix}
-$\
-$
+$$
+$$
     \qquad =
     \begin{bmatrix}
         1&0\\
         0&1\\
     \end{bmatrix}
-$
+$$
 
 ### Determinants for 2x2 and 3x3
 
