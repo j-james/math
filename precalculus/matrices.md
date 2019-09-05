@@ -158,9 +158,9 @@ $$
         g&h\\
     \end{vmatrix}
 $$
-$\;\quad\qquad\qquad = a(ei-fh) - b(di-fg) + c(dh-eg)$\
-$\;\quad\qquad\qquad = aei - afh - bdi - + bfg + cdh - ceg$\
-$\;\quad\qquad\qquad = (aei + bfg + cdh) - (afh + bdi + ceg)$
+$$\,\quad\qquad\qquad\qquad = a(ei-fh) - b(di-fg) + c(dh-eg)$$
+$$\quad\qquad\qquad\qquad = aei - afh - bdi - + bfg + cdh - ceg$$
+$$\!\qquad\qquad\qquad\qquad = (aei + bfg + cdh) - (afh + bdi + ceg)$$
 
 ### Inverse Matrices
 

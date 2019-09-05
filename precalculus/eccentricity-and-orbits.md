@@ -24,16 +24,16 @@ Parabola: $1$\
 Hyperbola: $e > 1$\
 Line: $\infty$
 
-![Eccentricity](../assets/precalculus/eccentricity_and_orbits_1.png)
+![Eccentricity](../assets/precalculus/eccentricity-and-orbits_1.png)
 
-![Eccentricity Again](../assets/precalculus/eccentricity_and_orbits_2.svg)
+![Eccentricity Again](../assets/precalculus/eccentricity-and-orbits_2.svg)
 
 ### Solar System Data
 
 The *closest point* to the Sun is the **Perihelion**.\
 The *farthest point* to the Sun is the **Aphelion**.
 
-![Perihelion and Aphelion](../assets/precalculus/eccentricity_and_orbits_3.jpg)
+![Perihelion and Aphelion](../assets/precalculus/eccentricity-and-orbits_3.jpg)
 
 *\*Mean distance from the Sun is also the semimajor axis length at the center of the Sun.*
 

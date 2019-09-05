@@ -11,7 +11,7 @@ You should be able to
 
 **Partial Fraction Decomposition** of fractions is the sum of partial fractions of a lesser degree.
 
-![Partial Fraction Decomposition](../assets/precalculus/partial_fractions_1.gif)
+![Partial Fraction Decomposition](../assets/precalculus/partial-fractions_1.gif)
 
 ### Process
 

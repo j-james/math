@@ -22,11 +22,11 @@ The **Polar Coordinates**: $(r, \theta)$
 $r$ is directed distance from $O$\
 $\theta$ is directed angle from polar axis
 
-![Polar Coordinate System](../assets/precalculus/intro_to_polar_coordinates_1.jpg)
+![Polar Coordinate System](../assets/precalculus/intro-to-polar-coordinates_1.jpg)
 
 **Polar graphs** are circular. The point $(4, \frac{4 \pi}{3})$ is plotted below. (could also be labeled as $(-4, \frac{\pi}{3})$)
 
-![Polar Graphs](../assets/precalculus/intro_to_polar_coordinates_2.jpg)
+![Polar Graphs](../assets/precalculus/intro-to-polar-coordinates_2.jpg)
 
 #### Examples
 
@@ -38,4 +38,4 @@ If the point $P$ has polar coordinates $(r, \theta)$ and rectangular coordinates
 $x = r\cos{\theta}, \qquad y = r \sin{\theta}$\
 $\tan{\theta} = \frac{y}{x}, \qquad x^2 + y^2 = r^2$
 
-![Coordinate Conversions](../assets/precalculus/intro_to_polar_coordinates_3.jpg)
+![Coordinate Conversions](../assets/precalculus/intro-to-polar-coordinates_3.jpg)
