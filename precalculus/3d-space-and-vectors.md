@@ -78,7 +78,7 @@ $$\vec{u} \times \vec{v} = (u_2 v_3 - u_3 v_2) \vec{\imath} + (u_3 v_1 - u_1 v_3
 
 ![Cross Product](../assets/precalculus/3d_space_and_vectors_6.png)
 
-$\vec{u} \times \vec{v}$ is a vector that is orthogonal to $\vec{u}$ and $\vec{v}$ $| \vec{u} \times \vec{v} = |\vec{u}| |\vec{v}| \sin{\theta}$, where $\theta$ is the angle between $\vec{u}$ and $\vec{v}$.\
+$\vec{u} \times \vec{v}$ is a vector that is orthogonal to $\vec{u}$ and $\vec{v}$ $| \vec{u} \times \vec{v} = |\vec{u}| |\vec{v}| \sin{\theta}$, where $\theta$ is the angle between $\vec{u}$ and $\vec{v}$.<br>
 $|\vec{u} \times \vec{v} |$ is the area of the parallelogram having non-zero vectors $\vec{u}$ and $\vec{v}$ as adjacent sides.
 
 ![Cross Area](../assets/precalculus/3d_space_and_vectors_7.png)
@@ -88,7 +88,7 @@ NOTE: Direction of vector is determined by the **right-hand rule** (order matter
 ![Right Hand Rule](../assets/precalculus/3d_space_and_vectors_8.svg)
 ![Torque Distance Force](../assets/precalculus/3d_space_and_vectors_9.jpg)
 
-**Torque** (in physics) is a force, and is how much turning power you have. It is the cross product of the radius vector and force vector. Units are Newton-meter or lbs-ft, not same as work, which is energy, and Newton-meter is joule.\
+**Torque** (in physics) is a force, and is how much turning power you have. It is the cross product of the radius vector and force vector. Units are Newton-meter or lbs-ft, not same as work, which is energy, and Newton-meter is joule.<br>
 (Distance not in same direction, it's perpendicular; multiply by unitless rotation (radians) to get work.)
 
 The **standard equation of a plane** containing the point $P (x_1, y_1, z_1)$ and having nonzero normal (perpendicular) vector $\vec{n} = \langle a, b, c \rangle$ is
@@ -103,7 +103,7 @@ where $n_1$ and $n_2$ are the normal vectors of the two planes.
 
 ![Normal Vectors](../assets/precalculus/3d_space_and_vectors_10.jpg)
 
-The **equation of the line of intersection of the two planes**, in parametric form, can be found by using the cross product of the two normal vectors of the planes and a point on the line. The cross product vector will be parallel to both planes, and wll be in the direction of the line.
+The **equation of the line of intersection of the two planes**, in parametric form, can be found by using the cross product of the two normal vectors of the planes and a point on the line. The cross product vector will be parallel to both planes, and will be in the direction of the line.
 
 The **distance between a plane and a point $Q$** (that is not in the plane) is
 $$d = |proj_n\overrightarrow{PQ}|$$

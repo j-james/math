@@ -15,6 +15,7 @@ You should be able to
 
 The **dot product** of $\vec{u} = \langle u_1, u_2 \rangle$ and $\vec{v} = \langle v_1, v_2 \rangle$ is
 $$\vec{u} \bullet \vec{v} = u_1 v_1 + u_2 v_2 \qquad \vec{u} \bullet \vec{v} = |\vec{u}| |\vec{v}| \cos{\theta}$$
+
 where $\theta$ is the angle between those vectors.
 
 ![Dot Product Definition](../assets/precalculus/dot-product-of-vectors-in-the-plane_1.gif)
@@ -24,7 +25,7 @@ The dot product is the magnitude amount of stretching / shrinking one vector by 
 
 ### Orthogonal Vectors
 
-The vectors $\vec{u}$ and $\vec{v}$ are **orthogonal** iff $\vec{u} \bullet \vec{v} = 0$.\
+The vectors $\vec{u}$ and $\vec{v}$ are **orthogonal** iff $\vec{u} \bullet \vec{v} = 0$.<br>
 The dot product formula, in terms of the angle, is
 $$\cos{\theta} = \frac{\vec{u} \bullet \vec{v}}{|u||v|}$$
 
@@ -46,7 +47,8 @@ $$\vec{u} = proj_vu + \vec{s},\ \therefore \vec{s} = \vec{u} - proj_vu$$
 
 ### Application
 
-If $\vec{F}$ is a constant force whose direction is the same as the direction of $\overrightarrow{AB}$, then the work $W$ done by $\vec{F}$ in moving an object from $A$ to $B$ is $W = |\vec{F}| |\overrightarrow{AB}|$.
+If $\vec{F}$ is a constant force whose direction is the same as the direction of $\overrightarrow{AB}$, then the work $W$ done by $\vec{F}$ in moving an object from $A$ to $B$ is
+$$W = |\vec{F}| |\overrightarrow{AB}|$$
 
 ![Application](../assets/precalculus/dot-product-of-vectors-in-the-plane_5.png)
 

@@ -11,6 +11,7 @@ You should be able to
 
 If $E$ is an event in a finite, nonempty sample space $S$ of equally likely outcomes, then the probability of the event $E$ is
 $$P(E) = \frac{the\ number\ of\ outcomes\ in\ E}{the\ number\ of\ outcomes\ in\ S}$$
+
 (If not equally likely outcomes, add up all the probabilities of all outcomes)
 
 ![Impossible to Certain](../assets/precalculus/probability_1.gif)

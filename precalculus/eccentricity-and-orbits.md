@@ -30,7 +30,7 @@ Line: $\infty$
 
 ### Solar System Data
 
-The *closest point* to the Sun is the **Perihelion**.\
+The *closest point* to the Sun is the **Perihelion**.<br>
 The *farthest point* to the Sun is the **Aphelion**.
 
 ![Perihelion and Aphelion](../assets/precalculus/eccentricity-and-orbits_3.jpg)

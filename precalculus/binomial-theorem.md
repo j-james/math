@@ -12,20 +12,25 @@ You should be able to
 
 ### Expanding a Binomial
 
-$(a + b)^0 = 1a^0$\
-$(a + b)^1 = 1a^1 + 1b^1$\
-$(a + b)^2 = 1a^2 + 2ab + 1b^2$\
-$(a + b)^3 = 1a^3 + 3a^2b + 3ab^2 + 1b^3$\
-$(a + b)^4 = 1a^4 + 4a^3b + 6a^2b^2 + 4ab^3 + 1b^4$\
+$(a + b)^0 = 1a^0$<br>
+$(a + b)^1 = 1a^1 + 1b^1$<br>
+$(a + b)^2 = 1a^2 + 2ab + 1b^2$<br>
+$(a + b)^3 = 1a^3 + 3a^2b + 3ab^2 + 1b^3$<br>
+$(a + b)^4 = 1a^4 + 4a^3b + 6a^2b^2 + 4ab^3 + 1b^4$<br>
 $(a + b)^5 = 1a^5 + 5a^4b + 10a^3b^2 + 10a^2b^3 + 5ab^4 + 1b^5$
 
 Pascal's triangle corresponds to a value of $_nC_r$
 
 $$_0C_0$$
+
 $$_1C_0\ _1C_1$$
+
 $$_2C_0\ _2C_1\ _2C_2$$
+
 $$_3C_0\ _3C_1\ _3C_2\ _3C_3$$
+
 $$_4C_0\ _4C_1\ _4C_2\ _4C_3\ _4C_4$$
+
 $$_5C_0\ _5C_1\ _5C_2\ _5C_3\ _5C_4\ _5C_5$$
 
 ### Binomial Theorem

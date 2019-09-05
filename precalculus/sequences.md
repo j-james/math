@@ -16,17 +16,17 @@ Sequence values (terms or output numbers) are written by using subscripts. The f
 
 An explicit formula would have the form $a_n = \frac{3n}{n+1}$
 
-Sequences can be finite or infinite.\
+Sequences can be finite or infinite.<br>
 Let $a_n$ be a sequence of real numbers, and let $L$ be a finite number. A sequence will **converge** if
 $$\lim_{x \to \infty} a_n = L$$
 If the sequence is infinite or nonexistant, the sequence diverges.
 
 A **recursive formula** is a rule in which one or more previous terms are used to generate the next term.
 
-An **arithmetic sequence** has an explicit rule or form $a_n = a_1 + (n-1)d$, where $d$ is the *common difference* between terms.\
+An **arithmetic sequence** has an explicit rule or form $a_n = a_1 + (n-1)d$, where $d$ is the *common difference* between terms.<br>
 Recursive Rule: $a_n = a_{n-1} * r$ for $n \geq 2$
 
-A **geometric sequence** has an explicit rule or form $a_n = a_1 r^{n-1}$, where $r$ is the *common ratio* between terms.\
+A **geometric sequence** has an explicit rule or form $a_n = a_1 r^{n-1}$, where $r$ is the *common ratio* between terms.<br>
 Recursive Rule: $a_n = a_{n-1} * r$ for $n \geq 2$
 
 ### Fibonacci Sequence

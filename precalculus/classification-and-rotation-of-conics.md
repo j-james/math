@@ -16,16 +16,16 @@ You should be able to
 
 ### Classification of Conics
 
-The graph of $Ax^2 + Cy^2 + Dx + Ey + F = 0$\
-If $A = C$ - circle\
-If $AC = 0$ - parabola\
-If $AC > 0$ - ellipse\
+The graph of $Ax^2 + Cy^2 + Dx + Ey + F = 0$<br>
+If $A = C$ - circle<br>
+If $AC = 0$ - parabola<br>
+If $AC > 0$ - ellipse<br>
 If $AC < 0$ - hyperbola
 
-Using the discriminant = $B^2 - 4AC$\
-The graph of the equation $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$\
-If $B^2 - 4AC < 0$ - ellipse or circle\
-If $B^2 - 4AC = 0$ - parabola\
+Using the discriminant = $B^2 - 4AC$<br>
+The graph of the equation $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$<br>
+If $B^2 - 4AC < 0$ - ellipse or circle<br>
+If $B^2 - 4AC = 0$ - parabola<br>
 If $B^2 - 4AC > 0$ - hyperbola
 
 ### Rewriting Conics in transformed form

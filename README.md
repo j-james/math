@@ -26,7 +26,7 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - [x] [Prove Trig Identities](precalculus/prove-trig-identities.md)
 - [x] [Sequences](precalculus/sequences.md)
 - [ ] [Series](precalculus/series.md)
-- [x] [Solving Exponential and Log](precalculus/solving-exponential-and-log.md)
+- [x] [Solving Exponential and Logs](precalculus/solving-exponential-and-logs.md)
 - [x] [Solving Non Simple Exponential Functions](precalculus/solving-non-simple-exponential-functions.md)
 - [ ] [Vectors in the Plane](precalculus/vectors-in-the-plane.md)
 

@@ -30,6 +30,7 @@ $$|v| = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} = \sqrt{(v_1)^2 + (v_2)^2}$$
 ### Unit Vector
 
 The **unit vector** $\vec{u}$ is a vector with length $|u| = 1$.
+
 $$\vec{u} = \frac{1}{|v|}\vec{v}$$
 
 ![Unit Vector](../assets/precalculus/vectors-in-the-plane_5.png)
@@ -63,5 +64,5 @@ Weight force, $F_{g}$ directly downward, can be calculated by multiplying the ma
 
 ![Application](../assets/precalculus/vectors-in-the-plane_10.png)
 
-SI units: $Newtons = kg * 9.8m/s^2$\
+SI units: $Newtons = kg * 9.8m/s^2$<br>
 American units: $Pounds = slugs * 32ft/s^2$

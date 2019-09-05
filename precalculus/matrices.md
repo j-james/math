@@ -17,9 +17,9 @@ Let $m$ and $n$ be positive integers. An $m$ by $n$ **matrix** is a rectangular 
 
 ### Elements of a Matrix
 
-$m$ = number of rows\
-$n$ = number of columns\
-$a_{mn}$ = any element in row $m$ and column $n$\
+$m$ = number of rows<br>
+$n$ = number of columns<br>
+$a_{mn}$ = any element in row $m$ and column $n$<br>
 $m \times n$ = dimension of a matrix
 
 $$
@@ -42,8 +42,6 @@ Multiply each entry by the scalar number, same size matrix.
 
 #### Matrix Multiplication (NOT commutative)
 Multiply each row of first by each column of second; need to correspond accordingly and each matrix and answer may not be same size
-
-
 
 $$
 "Dot\ Product"
@@ -248,10 +246,10 @@ $$
 
 ### Solving a Matrix Equation
 
-$AX = B \quad\qquad\qquad$ Given; since A is $n \times n$, $X$ must by $n \times p$\
-$A^{-1}(AX) = A^{-1}B \:\;\;$ Multiply on the left by $A^{-1}$\
-$(A^{-1}A)X = A^{-1}B \:\;\;$ Associative property of matrices\
-$(I_n)X = A^{-1}B \:\qquad$ Property of matrix inverses\
+$AX = B \quad\qquad\qquad$ Given; since A is $n \times n$, $X$ must by $n \times p$<br>
+$A^{-1}(AX) = A^{-1}B \:\;\;$ Multiply on the left by $A^{-1}$<br>
+$(A^{-1}A)X = A^{-1}B \:\;\;$ Associative property of matrices<br>
+$(I_n)X = A^{-1}B \:\qquad$ Property of matrix inverses<br>
 $X = A^{-1}B \,\:\;\;\quad\qquad$ Property of the identity matrix
 
 #### Solving Example

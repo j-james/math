@@ -15,11 +15,11 @@ A polar coordinate system is when points can be graphed from a directed distance
 
 ### Polar Coordinate System
 
-The **Pole**: Point $O$\
+The **Pole**: Point $O$<br>
 The **Polar Axis**: ray from point $O$ along positive x-axis\
 The **Polar Coordinates**: $(r, \theta)$
 
-$r$ is directed distance from $O$\
+$r$ is directed distance from $O$<br>
 $\theta$ is directed angle from polar axis
 
 ![Polar Coordinate System](../assets/precalculus/intro-to-polar-coordinates_1.jpg)
@@ -34,8 +34,8 @@ If the point $P$ has polar coordinates $(r, \theta)$, **all other polar coordina
 
 ### Coordinate Conversions
 
-If the point $P$ has polar coordinates $(r, \theta)$ and rectangular coordinates $(x, y)$, then\
-$x = r\cos{\theta}, \qquad y = r \sin{\theta}$\
+If the point $P$ has polar coordinates $(r, \theta)$ and rectangular coordinates $(x, y)$, then<br>
+$x = r\cos{\theta}, \qquad y = r \sin{\theta}$<br>
 $\tan{\theta} = \frac{y}{x}, \qquad x^2 + y^2 = r^2$
 
 ![Coordinate Conversions](../assets/precalculus/intro-to-polar-coordinates_3.jpg)

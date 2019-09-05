@@ -8,6 +8,7 @@ You should be able to
 ## Concepts / Definitions
 
 ### Strategies
+
 Equating if two terms, combine using properties, or factoring.
 
 Note: All answers should be evaluated, unless it is irrational.

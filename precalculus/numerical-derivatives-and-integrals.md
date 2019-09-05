@@ -20,9 +20,9 @@ $$lim_{x \to \infty} \frac{\sin{x}}{x} = 1 \qquad lim_{x \to 0} \frac{\cos{x}-1}
 
 ### Derivative and Integral buttons
 
-From Graphing Screen:\
-Graph $f(x)$, $2^{nd}$ TRACE (calc), 6 deriv, 7 integral\
-From Main Screen:\
+From Graphing Screen:<br>
+Graph $f(x)$, $2^{nd}$ TRACE (calc), 6 deriv, 7 integral<br>
+From Main Screen:<br>
 MATH, 8nDeriv$(f(x), x, x_a)$, 9fnIn$t(f(x), x, a, b)$
 
 Note: Technically the theorem is based on real numbers, we do include infinity as a possible answer to give more information about answer.
@@ -52,5 +52,5 @@ $$
 \end{matrix}
 $$
 
-undefined: we don't know\
+undefined: we don't know<br>
 indeterminute: we can find out
