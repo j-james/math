@@ -11,23 +11,55 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 ## Units
 
 ### precalculus
+
+- Functions and Graphs
+- Polynomial, Power, and Rational Functions
+- Exponential, Logistic, and Logarithmic Functions
+- Trigonometric Functions
+- Analytic Trigonometry
+- Systems of Matrices
+- Analytic Geometry: Two and Three Dimensions
+- Discrete Mathematics
+- Intro to Calculus
+
 - [ ] [3D Space and Vectors](precalculus/3d-space-and-vectors.md)
+- [ ] Absolute Value and Piecewise
+- [ ] Angles and Arc Length
+- [ ] Applications of Exponential, Logarithmic, and Logistic Functions
 - [x] [Binomial Theorem](precalculus/binomial-theorem.md)
 - [x] [Classification and Rotation of Conics](precalculus/classification-and-rotation-of-conics.md)
+- [ ] Division and Finding All Zeros
 - [ ] [Dot Product of Vectors in the Plane](precalculus/dot-product-of-vectors-in-the-plane.md)
 - [x] [Eccentricity and Orbits](precalculus/eccentricity-and-orbits.md)
+- [ ] Fundamental Trig Identities
+- [ ] Graphing Rational Functions
+- [ ] Graphs of Tangent and Reciprocal Functions
+- [ ] Higher Degree Polynomials
+- [ ] Intro to Functions
 - [ ] [Intro to Polar Coordinates](precalculus/intro-to-polar-coordinates.md)
+- [ ] Inverse Trig Functions
+- [ ] Law of Sines and Cosines
+- [ ] Linear and Quadratic Functions
+- [ ] Logarithmic Functions
 - [x] [Matrices](precalculus/matrices.md)
 - [x] [More on Limits and using calculator for Numerical Derivatives and Integrals](precalculus/numerical-derivatives-and-integrals.md)
+- [ ] Multiple Angle Identities
 - [x] [Partial Fractions](precalculus/partial-fractions.md)
 - [x] [Permutations and Combinations](precalculus/permutations-and-combinations.md)
 - [ ] [Polar Equations of Conics](precalculus/polar-equations-of-conics.md)
+- [ ] Power Functions
 - [x] [Probability](precalculus/probability.md)
+- [ ] Properties of Functions
 - [x] [Prove Trig Identities](precalculus/prove-trig-identities.md)
+- [ ] Right Triangle Trigonometry
 - [x] [Sequences](precalculus/sequences.md)
 - [ ] [Series](precalculus/series.md)
+- [ ] Simplifying and Solving Rational Expressions
 - [x] [Solving Exponential and Logs](precalculus/solving-exponential-and-logs.md)
 - [x] [Solving Non Simple Exponential Functions](precalculus/solving-non-simple-exponential-functions.md)
+- [ ] Solving Trig Equations
+- [ ] Sum and Difference Identities
+- [ ] Transformations of Functions
 - [ ] [Vectors in the Plane](precalculus/vectors-in-the-plane.md)
 
 ### calculus
