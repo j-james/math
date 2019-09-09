@@ -85,3 +85,23 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - https://en.wikipedia.org/wiki/Polar_coordinate_system
 - https://commons.wikimedia.org/wiki/Polar_coordinate_system
 - https://commons.wikimedia.org/w/index.php?title=Special:Search&limit=500&offset=0&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1&search=vector+force&advancedSearch-current={}
+
+### Other helpful links
+- https://courses.lumenlearning.com/precalctwo/chapter/finding-limits-numerical-and-graphical-approaches/
+- https://philschatz.com/precalculus-book/contents/m49452.html
+- https://philschatz.com/books/
+- https://philschatz.com/precalculus-book/contents/m49301.html
+- https://openstax.org/subjects
+- https://github.com/philschatz/statistics-book/blob/master/contents/m46973.md
+- https://github.com/philschatz/precalculus-book
+- https://philschatz.com/calculus-book/contents/m53477.html
+- https://philschatz.com/precalculus-book/
+- https://philschatz.com/physics-book/
+- https://philschatz.com/us-history-book/contents/m49968.html
+- https://opentextbc.ca/calculusv1openstax/chapter/continuity/
+- https://philschatz.com/precalculus-book/contents/m49452.html
+- https://cnx.org/contents/_VPq4foj@11.10:vEOnJry_@5/Introduction-to-Functions
+- https://cnx.org/contents/i4nRcikn@6.47:H2TLb2-S@4/Introduction
+- https://cnx.org/contents/HTmjSAcf@5.21:rrzms6rP@6/Introduction
+- https://cnx.org/contents/oxzXkyFi@5.30:72YaCFgv@5/Introduction
+- https://philschatz.com/precalculus-book/contents/m49452.html
