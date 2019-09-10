@@ -63,9 +63,9 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - [ ] [Vectors in the Plane](precalculus/vectors-in-the-plane.md)
 
 ### calculus
-- Limits
-  - The Tangent Problem
-  - Calculating Integrals
+- Intro to Calculus / Calculating Limits
+    - [ ] [Limits](calculus/limits.md)
+    - [ ] [Definition of the Derivative](calculus/definition-of-the-derivative.md)
 
 ## some sources
 
