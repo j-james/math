@@ -5,7 +5,6 @@
 ## Learning Targets:
 
 You should be able to
-
 - Evaluate limits algebraically and numerically, with and without calculator
 - Numerically calculate derivatives and integrals using `nDeriv` and `fnInt` on calculator
 

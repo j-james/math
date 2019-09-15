@@ -2,15 +2,23 @@
 
 Notes from Scott Druker's calculus classes. Written in a combination of Markdown, HTML, and LaTeX.
 
-## :construction: TODOs
+## 🚧 TODOs
 - [ ] Convert notes from both first and second semester
 - [ ] Classify notes into sections outlined in this document
-- [ ] Unify image designs (import from a semi-consistent source, such as Wikimedia)
+- [ ] Unify image designs (import from a semi-consistent source, such as Wikimedia) <-- this is going to be ga
 - [ ] Make "Learning Targets" collapsed by default
 
-## Units
+## AP Calculus
 
-### precalculus
+- Limits and Continuity
+    - [ ] [[2.0] Limits Review](calculus/limits.md)
+- Derivatives
+    - [ ] [[3.1] Definition of the Derivative](calculus/definition-of-the-derivative.md)
+    - [ ] [[3.3] Differentiation Rules](calculus/differentiation-rules.md)
+    - [ ] [[3.4] Rates of Change](calculus/rates-of-change.md)
+    - [ ] [[3.5] Derivatives of Trigonometric Functions](calculus/derivatives-of-trigonometric-functions.md)
+
+## Honors Precalculus
 
 - Functions and Graphs
 - Polynomial, Power, and Rational Functions
@@ -22,6 +30,7 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - Discrete Mathematics
 - Intro to Calculus
 
+###
 - [ ] [3D Space and Vectors](precalculus/3d-space-and-vectors.md)
 - [ ] Absolute Value and Piecewise
 - [ ] Angles and Arc Length
@@ -61,12 +70,6 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - [ ] Sum and Difference Identities
 - [ ] Transformations of Functions
 - [ ] [Vectors in the Plane](precalculus/vectors-in-the-plane.md)
-
-### calculus
-- Intro to Calculus / Calculating Limits
-    - [ ] [Limits](calculus/limits.md)
-    - [ ] [Definition of the Derivative](calculus/definition-of-the-derivative.md)
-    - [ ] [3.3] [Differentiation Rules](calculus/differentiation-rules.md)
 
 ## some sources
 

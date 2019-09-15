@@ -54,7 +54,7 @@ The product of the scalar $k$ and the vector $\vec{v}$ is $k\vec{a} = \langle ka
 
 ### Trigonometric form and direction angle of vectors
 
-If $\vec{v}$ has direction angle $\theta$, the components of $\vec{v}$ can be computed $\vec{v} = \langle |v|cos{\theta}, |v|\;sin{\theta} \rangle$ and the unit vector in the direction of $\vec{v}$ is $\vec{u} = \langle cos{\theta}, sin{\theta} \rangle$
+If $\vec{v}$ has direction angle $\theta$, the components of $\vec{v}$ can be computed $\vec{v} = \langle |v|\cos{\theta}, |v|\;\sin{\theta} \rangle$ and the unit vector in the direction of $\vec{v}$ is $\vec{u} = \langle \cos{\theta}, \sin{\theta} \rangle$
 
 ![Trigonometric Form](../assets/precalculus/vectors-in-the-plane_9.png)
 

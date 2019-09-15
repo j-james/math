@@ -2,7 +2,7 @@
 
 ## Learning Targets
 
-You should be able to
+You will be able to
 - [ ] Evaluate limits graphically, numerically, and algebraically.
 
 ## Concepts / Definitions
