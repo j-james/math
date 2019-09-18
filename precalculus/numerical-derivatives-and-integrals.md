@@ -12,11 +12,11 @@ You should be able to
 
 ### Theorem for a Limit
 
-$$\lim_{x \to a} f(x) = L \quad iff \quad lim_{x \to a^-} f(x) = L = lim_{x \to a^+} f(x)$$
+$$\lim_{x \to a} f(x) = L \quad iff \quad \lim_{x \to a^-} f(x) = L = \lim_{x \to a^+} f(x)$$
 
 ### Theorem
 
-$$\lim_{x \to \infty} \frac{\sin{x}}{x} = 1 \qquad lim_{x \to 0} \frac{\cos{x}-1}{x} = 0$$
+$$\lim_{x \to \infty} \frac{\sin{x}}{x} = 1 \qquad \lim_{x \to 0} \frac{\cos{x}-1}{x} = 0$$
 
 ### Derivative and Integral buttons
 
