@@ -1,4 +1,3 @@
-{% include head.html %}
 {% include mathjax.html %}
 
 # Squeeze Theorem and Limit of Composition
