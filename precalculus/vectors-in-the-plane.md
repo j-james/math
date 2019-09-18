@@ -23,15 +23,15 @@ The magnitude of $\vec{v}$ is the length of the arrow and the direction of $\vec
 ![Magnitude](../assets/precalculus/vectors-in-the-plane_3.png)
 
 The **magnitude of vector** $\vec{v} = \langle v_1, v_2 \rangle$, represented by $\overrightarrow{AB}$ is
-$$|v| = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} = \sqrt{(v_1)^2 + (v_2)^2}$$
+$$\lvert v\rvert = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} = \sqrt{(v_1)^2 + (v_2)^2}$$
 
 ![Magnitude Graph](../assets/precalculus/vectors-in-the-plane_4.png)
 
 ### Unit Vector
 
-The **unit vector** $\vec{u}$ is a vector with length $|u| = 1$.
+The **unit vector** $\vec{u}$ is a vector with length $\lvert u\rvert = 1$.
 
-$$\vec{u} = \frac{1}{|v|}\vec{v}$$
+$$\vec{u} = \frac{1}{\lvert v\rvert}\vec{v}$$
 
 ![Unit Vector](../assets/precalculus/vectors-in-the-plane_5.png)
 
@@ -54,7 +54,7 @@ The product of the scalar $k$ and the vector $\vec{v}$ is $k\vec{a} = \langle ka
 
 ### Trigonometric form and direction angle of vectors
 
-If $\vec{v}$ has direction angle $\theta$, the components of $\vec{v}$ can be computed $\vec{v} = \langle |v|\cos{\theta}, |v|\;\sin{\theta} \rangle$ and the unit vector in the direction of $\vec{v}$ is $\vec{u} = \langle \cos{\theta}, \sin{\theta} \rangle$
+If $\vec{v}$ has direction angle $\theta$, the components of $\vec{v}$ can be computed $\vec{v} = \langle \lvert v\rvert\cos{\theta}, \lvert v\rvert\;\sin{\theta} \rangle$ and the unit vector in the direction of $\vec{v}$ is $\vec{u} = \langle \cos{\theta}, \sin{\theta} \rangle$
 
 ![Trigonometric Form](../assets/precalculus/vectors-in-the-plane_9.png)
 

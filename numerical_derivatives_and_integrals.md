@@ -109,7 +109,7 @@ $$\lim_{x\to\infin}\arctan x$$
 
 8) Evaluate (no calc)
 
-$$\lim_{x\to2}\frac{|2-x|}{2-x}$$
+$$\lim_{x\to2}\frac{\lvert 2-x\rvert}{2-x}$$
 
 9) Evaluate (no calc)
 

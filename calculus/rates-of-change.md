@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Rates of Change
 
 ## Learning Targets
@@ -15,7 +17,7 @@ $$v(t) = \frac{ds}{dt}$$
 
 ### Speed
 Speed is the absolute value of velocity.<br>
-Speed = $|v(t)|$
+Speed = $\lvert v(t)\rvert$
 
 ### Acceleration
 Acceleration is the derivative of velocity with respect to time. If a body's velocity at time $t$ is $v(t) = \frac{ds}{dt}$, then the body's acceleration at time $t$ is

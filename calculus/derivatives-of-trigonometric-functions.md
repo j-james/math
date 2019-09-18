@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Derivatives of Trigonometric Functions
 
 ## Learning Targets

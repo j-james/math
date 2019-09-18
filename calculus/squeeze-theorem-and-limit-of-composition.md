@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Squeeze Theorem and Limit of Composition
 
 ## Learning Targets

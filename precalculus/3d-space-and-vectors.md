@@ -79,7 +79,7 @@ $$\vec{u} \times \vec{v} = (u_2 v_3 - u_3 v_2) \vec{\imath} + (u_3 v_1 - u_1 v_3
 ![Cross Product](../assets/precalculus/3d_space_and_vectors_6.png)
 
 $\vec{u} \times \vec{v}$ is a vector that is orthogonal to $\vec{u}$ and $\vec{v}$ $\lvert \vec{u} \times \vec{v} = \lvert\vec{u}\rvert \lvert\vec{v}\rvert \sin{\theta}$, where $\theta$ is the angle between $\vec{u}$ and $\vec{v}$.<br>
-$|\vec{u} \times \vec{v} |$ is the area of the parallelogram having non-zero vectors $\vec{u}$ and $\vec{v}$ as adjacent sides.
+$\lvert\vec{u} \times \vec{v} \rvert$ is the area of the parallelogram having non-zero vectors $\vec{u}$ and $\vec{v}$ as adjacent sides.
 
 ![Cross Area](../assets/precalculus/3d_space_and_vectors_7.png)
 
@@ -98,7 +98,7 @@ The general form after being simplified is
 $$ax + by + cz + d = 0$$
 
 The **angle between two planes** can be found by
-$$\cos{\theta} = \frac{n_1 \bullet n_2}{|n_1| |n_2|}$$
+$$\cos{\theta} = \frac{n_1 \bullet n_2}{\lvert n_1\rvert \lvert n_2\rvert}$$
 where $n_1$ and $n_2$ are the normal vectors of the two planes.
 
 ![Normal Vectors](../assets/precalculus/3d_space_and_vectors_10.jpg)
@@ -106,7 +106,7 @@ where $n_1$ and $n_2$ are the normal vectors of the two planes.
 The **equation of the line of intersection of the two planes**, in parametric form, can be found by using the cross product of the two normal vectors of the planes and a point on the line. The cross product vector will be parallel to both planes, and will be in the direction of the line.
 
 The **distance between a plane and a point $Q$** (that is not in the plane) is
-$$d = |proj_n\overrightarrow{PQ}|$$
+$$d = \lvert proj_n\overrightarrow{PQ}\rvert$$
 where $P$ is a point in the plane and $n$ is a vector normal to the plane.
 
 ![Projection](../assets/precalculus/3d_space_and_vectors_11.png)

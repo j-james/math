@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Solving Exponential and Logs
 
 ## Learning Targets

@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Differentiation Rules
 
 ## Learning Targets
@@ -125,8 +127,8 @@ $$y^{(n)} = \frac{d}{dx}y^{n-1} = \frac{d^ny}{dx^n}$$
 Find an equation of the line tangent to the curve $y = \frac{x^2 - 1}{x^2 + 1}$ at $x = -2$
 
 $$\frac{dy}{dx} = \frac{4x}{(x^2+1)^2}$$
-$$\frac{dy}{dx}|_{x = -2} = \frac{4(-2)}{((-2)^2 + 1)^2}$$
-$$\frac{dy}{dx}|_{x = -2} = -\frac{8}{25}$$
+$$\frac{dy}{dx}\rvert_{x = -2} = \frac{4(-2)}{((-2)^2 + 1)^2}$$
+$$\frac{dy}{dx}\rvert_{x = -2} = -\frac{8}{25}$$
 $$y = \frac{(-2)^2-1}{(-2)^2+1}$$
 $$y = \frac 35$$
 $$z = -\frac{8}{25}(x+2) + \frac 35$$

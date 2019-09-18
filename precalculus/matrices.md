@@ -131,7 +131,7 @@ A =
     a&b\\
     c&d\\
 \end{bmatrix}
-\quad |A| = ad - bc
+\quad \lvert A\rvert = ad - bc
 $$
 
 $$
@@ -178,7 +178,7 @@ $$
 $$\ $$
 
 $$
-A^{-1} = \frac{1}{|A|}
+A^{-1} = \frac{1}{\lvert A\rvert}
 \begin{bmatrix}
     \begin{vmatrix}
         a_{22}&&a_{23}\\

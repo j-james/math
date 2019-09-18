@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Prove Trig Identities
 
 ## Learning Targets

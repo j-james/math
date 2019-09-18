@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 # Solving Non Simple Exponential Functions
 
 ## Learning Targets
