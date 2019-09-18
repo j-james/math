@@ -1,3 +1,4 @@
+{% include head.html %}
 {% include mathjax.html %}
 
 # Derivatives of Trigonometric Functions

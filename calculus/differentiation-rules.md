@@ -1,3 +1,4 @@
+{% include head.html %}
 {% include mathjax.html %}
 
 # Differentiation Rules

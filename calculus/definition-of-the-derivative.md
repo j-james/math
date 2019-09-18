@@ -1,3 +1,4 @@
+{% include head.html %}
 {% include mathjax.html %}
 
 # Definition of the Derivative and Differentiability
