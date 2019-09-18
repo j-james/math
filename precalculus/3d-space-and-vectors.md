@@ -63,7 +63,7 @@ $$\vec{\imath} = \langle 1, 0, 0 \rangle,\ \vec{\jmath} = \langle 0, 1, 0 \rangl
 
 $$\vec{u} \bullet \vec{v} = u_x v_x + u_y v_y + u_z v_z$$
 
-The **equation of a line** through the point $P_0 (x_0, y_0, z_0)$ in the direction of $\vec{v} = \langle a, b, c \rangle
+The **equation of a line** through the point $P_0 (x_0, y_0, z_0)$ in the direction of $\vec{v} = \langle a, b, c \rangle$
 
 **Parametric form:**
 $$x = x_0 + at, y = y_0 + bt, z = z_0 + ct$$
@@ -78,7 +78,7 @@ $$\vec{u} \times \vec{v} = (u_2 v_3 - u_3 v_2) \vec{\imath} + (u_3 v_1 - u_1 v_3
 
 ![Cross Product](../assets/precalculus/3d_space_and_vectors_6.png)
 
-$\vec{u} \times \vec{v}$ is a vector that is orthogonal to $\vec{u}$ and $\vec{v}$ $| \vec{u} \times \vec{v} = |\vec{u}| |\vec{v}| \sin{\theta}$, where $\theta$ is the angle between $\vec{u}$ and $\vec{v}$.<br>
+$\vec{u} \times \vec{v}$ is a vector that is orthogonal to $\vec{u}$ and $\vec{v}$ $\lvert \vec{u} \times \vec{v} = \lvert\vec{u}\rvert \lvert\vec{v}\rvert \sin{\theta}$, where $\theta$ is the angle between $\vec{u}$ and $\vec{v}$.<br>
 $|\vec{u} \times \vec{v} |$ is the area of the parallelogram having non-zero vectors $\vec{u}$ and $\vec{v}$ as adjacent sides.
 
 ![Cross Area](../assets/precalculus/3d_space_and_vectors_7.png)

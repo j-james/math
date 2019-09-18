@@ -33,7 +33,7 @@ $S_n - \!\; r S_n = a - a_1 r^n$<br>
 $S_n (1-r) = a_1 (1-r^n)$<br>
 $\quad\qquad S_n = a_1 (\frac{1-r^n}{1-r})$
 
-The **sum of an infinite geometric series** $S$ with common ratio $r$ and $|r| < 1$ is
+The **sum of an infinite geometric series** $S$ with common ratio $r$ and $\lvert r\rvert < 1$ is
 $$S_{\infty} = lim_{n \to \infty} a_1 (\frac{1-r^n}{1-r}),\ |r| < 1$$
 $$S_{\infty} = \frac{a_1}{1-r}$$
 
