@@ -12,11 +12,11 @@ You should be able to
 
 ### Theorem for a Limit
 
-$$lim_{x \to a} f(x) = L \quad iff \quad lim_{x \to a^-} f(x) = L = lim_{x \to a^+} f(x)$$
+$$\lim_{x \to a} f(x) = L \quad iff \quad lim_{x \to a^-} f(x) = L = lim_{x \to a^+} f(x)$$
 
 ### Theorem
 
-$$lim_{x \to \infty} \frac{\sin{x}}{x} = 1 \qquad lim_{x \to 0} \frac{\cos{x}-1}{x} = 0$$
+$$\lim_{x \to \infty} \frac{\sin{x}}{x} = 1 \qquad lim_{x \to 0} \frac{\cos{x}-1}{x} = 0$$
 
 ### Derivative and Integral buttons
 
@@ -30,7 +30,7 @@ Note: Technically the theorem is based on real numbers, we do include infinity a
 ### Theorem
 
 If $r > 0$ is a rational number, then
-$$lim_{x \to \pm \infty} \frac{1}{x^r} = 0$$
+$$\lim_{x \to \pm \infty} \frac{1}{x^r} = 0$$
 
 Suppose we want to answer a limit question, and *when we "plug in" the limit value*, this is what we get. So, what would they equal?
 

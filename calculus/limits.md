@@ -13,7 +13,7 @@ If $f(x)$ becomes arbitratily close to a single number $L$ as $x$ approaches a n
 ![Limit Definition](../assets/calculus/limits_1.png)
 
 ### Definition for a Limit using one-sided limits
-$$lim_{x\to a} f(x) = L\quad iff\quad \lim_{x\to a^-} f(x) = L = \lim_{x \to a^+} f(x)$$
+$$\lim_{x\to a} f(x) = L\quad iff\quad \lim_{x\to a^-} f(x) = L = \lim_{x \to a^+} f(x)$$
 
 Note: Technically, the theorem is based on a real number, $L$, but we include infinity as a possible answer.
 
