@@ -17,6 +17,8 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
     - [ ] [[3.3] Differentiation Rules](calculus/differentiation-rules.md)
     - [ ] [[3.4] Rates of Change](calculus/rates-of-change.md)
     - [ ] [[3.5] Derivatives of Trigonometric Functions](calculus/derivatives-of-trigonometric-functions.md)
+    - [ ] [[3.5.5] The Squeeze Theorem and Limits of Composite Functions](calculus/squeeze-theorem-and-limit-of-composite-functions.md)
+    - [ ] [[3.6] The Chain Rule](calculus/chain-rule.md)
 
 ## Honors Precalculus
 
