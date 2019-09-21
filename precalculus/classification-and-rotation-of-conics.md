@@ -16,14 +16,13 @@ You should be able to
 
 ### Classification of Conics
 
-The graph of $Ax^2 + Cy^2 + Dx + Ey + F = 0$<br>
+#### The graph of $Ax^2 + Cy^2 + Dx + Ey + F = 0$
 If $A = C$ - circle<br>
 If $AC = 0$ - parabola<br>
 If $AC > 0$ - ellipse<br>
 If $AC < 0$ - hyperbola
 
-Using the discriminant = $B^2 - 4AC$<br>
-The graph of the equation $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$<br>
+#### Using the discriminant = $B^2 - 4AC$<br>
 If $B^2 - 4AC < 0$ - ellipse or circle<br>
 If $B^2 - 4AC = 0$ - parabola<br>
 If $B^2 - 4AC > 0$ - hyperbola
@@ -35,5 +34,5 @@ $$\cot{2\theta} = (\frac{A-C}{B})$$
 
 ![Rotated Axis](../assets/precalculus/classification-and-rotation-of-conics_2.svg)
 
-The coefficients of the new equation are obtained by making the following substitutions.
+The coefficients of the new equation are obtained by making the following substitutions.<br>
 $$ x = x' \cos{\theta} - y' \sin{\theta}\ and\ y = x' \sin{\theta} + y' \cos{\theta}$$

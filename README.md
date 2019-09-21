@@ -18,7 +18,7 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
     - [ ] [[3.4] Rates of Change](calculus/rates-of-change.md)
     - [ ] [[3.5] Derivatives of Trigonometric Functions](calculus/derivatives-of-trigonometric-functions.md)
     - [ ] [[3.5.5] The Squeeze Theorem and Limits of Composite Functions](calculus/squeeze-theorem-and-limit-of-composite-functions.md)
-    - [ ] [[3.6] The Chain Rule](calculus/chain-rule.md)
+    - [ ] [[3.6] The Chain Rule](calculus/chain-rule.md) @TODO
 
 ## Honors Precalculus
 
@@ -43,7 +43,7 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
     - [ ] Applications of Exponential, Logarithmic, and Logistic Functions
 - Trigonometric Functions
     - [ ] Angles and Arc Length
-    - [ ] Graphs of Tangent and Reciprocal Functions
+    - [ ] [Graphs of Tangent and Reciprocal Functions](precalculus/graphs-of-tangent-and-reciprocal-functions.md)
     - [ ] Right Triangle Trigonometry
     - [ ] Solving Trig Equations
     - [ ] Inverse Trig Functions
