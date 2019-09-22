@@ -48,7 +48,7 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
     - Solving Trig Equations
     - Inverse Trig Functions
 - Trigonometric Identities (Analytic Trigonometry)
-    - Fundamental Trig Identities
+    - [Fundamental Trig Identities](precalculus/fundamental-trig-identities.md)
     - [Prove Trig Identities](precalculus/prove-trig-identities.md)
     - Sum and Difference Identities
     - Law of Sines and Cosines

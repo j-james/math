@@ -4,7 +4,7 @@
 
 ## Learning Targets
 
-You should be able to
+You will be able to
 - [ ] Evaluate limits of composition functions
 - [ ] Use Squeeze Theorem to find limits
 

@@ -4,7 +4,7 @@
 
 ## Learning Targets
 
-You should be able to
+You will be able to
 - [ ] Use rules of differentiation to calculate derivatives
   - [ ] Constant times function
   - [ ] Sum or Difference of functions
