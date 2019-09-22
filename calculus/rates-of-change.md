@@ -33,7 +33,7 @@ $g = 9.8\frac{m}{sec^2},\;\:\quad s = \frac 12 (9.8)t^2 = 4.9t^2$ where $s$ is i
 In Economics, marginals are used instead of the derivative.<br>
 For example, marginal cost is the cost ot produce one more item when a certain amount of items are produced.
 
-## Examples
+### Examples
 
 A particle moves along a line so that its position at any time $t \geq 0$ is given by the function $s(t) = t^3 -6t^2 + 9t$, where $s$ is measured in meters and $t$ is measured in seconds.
 

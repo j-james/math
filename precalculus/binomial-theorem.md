@@ -45,3 +45,12 @@ $$(a + b)^n = nC_0 a^n b^0 + nC_1 a^{n-1} b^1 + nC_2 a^{n-2} b^2 + ... + nC_{n-1
 ![Powers of Elevens](../assets/precalculus/binomial-theorem_2.gif)
 ![Number Patterns in diagonals](../assets/precalculus/binomial-theorem_3.jpg)
 ![Shallow Diagonals](../assets/precalculus/binomial-theorem_4.gif)
+
+## Exercises
+  1. Evaluate $\binom 73$ without calculator
+  2. Use the Binomial Theorem to expand $(2x + y)^4$ (no calculator)
+  3. Use the Binomial Theorem to expand $(\sqrt x - \sqrt y)^6$ (calculator okay)
+  4. Use the Binomial Theorem to expand $(x^{-2} + 3)^5$
+  5. Find the coefficient of the $x^{11}y^3$ term for $(x+y)^{14}$
+  6. Find the sixth term of $(x - 2)^6$
+  7. If $n$ is a positive integer, show that $\binom n0 + \binom n1 + ... + \binom nn = 2^n$

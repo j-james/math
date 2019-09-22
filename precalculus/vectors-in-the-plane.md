@@ -66,3 +66,31 @@ Weight force, $F_{g}$ directly downward, can be calculated by multiplying the ma
 
 SI units: $Newtons = kg * 9.8m/s^2$<br>
 American units: $Pounds = slugs * 32ft/s^2$
+
+## Exercises
+no calc. unless specified
+  1. Given $A=(2,-3)$ and $B(5,1)$,
+     1. Find the component form of $\overrightarrow{AB}$
+     2. Find the mangitude of $\overrightarrow{AB}$
+     3. Find the unit vector of $\overrightarrow{AB}$
+     4. Write $\overrightarrow{AB}$ as a linear combination.
+     5. Find the direction of $\overrightarrow{AB}$ (calculator)
+     6. Write $\overrightarrow{AB}$ in its trigonometric form
+  2. If $\vec u = \langle4,-3\rangle,\vec v=\langle1,2\rangle$
+     1. Find $\vec w=2\vec u-2\vec v$
+     2. Write the linear combination of $\vec w$.
+     3. Find $\lvert\vec w\rvert$
+  3. Given the vector $\vec v$ below,
+   ![Image](../assets/precalculus/vectors-in-the-plane_11.png)
+     1. Write the exact component form.
+     2. Write the exact linear combination form.
+  4. For $\vec v = 7(\cos 135°\hat\imath + \sin135°\hat\jmath)$,
+     1. Write in component form
+     2. Find the magnitude of $\vec v$
+  5. Find a vector $\vec v$ that has a magnitude of $\lvert\vec v\rvert = 3$ in the direction of $\langle-5,12\rangle$
+  6. An airplane is flying on a compass bearning of 340° at 325 mph. A wind is blowing with the bearing of 320° at 40 mph.
+     1. Find the component form for the velocity of the airplane and wind.
+     2. Find the ground speed of the resultant.
+     3. Find the new bearing of the plane.
+  7. The minimum force required to hold up a box on a 20° frictionless inclined plane is 30lbs. What is the weight of the box?
+  8. A force of 50lbs acts on an object at an angle of 45°. A second force of 75 lbs acts on the object at an angle of -30°. Find the magnitude of the resultant force and the direction.

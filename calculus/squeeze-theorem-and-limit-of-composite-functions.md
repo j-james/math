@@ -43,7 +43,7 @@ $$\lim_{x\to c}h(x) = L$$
 
 ![Image](../assets/calculus/squeeze-theorem-and-limit-of-composition-function.md)
 
-## Assignment
+## Exercises
 
   1. Evaluate $\lim_{x\to 1} \arcsin(\frac{1-\sqrt x}{1-x})$
   2. Show analytically that $\lim_{x\to 0}x^2\cos(\frac{1}{x^2}) = 0$

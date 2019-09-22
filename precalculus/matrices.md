@@ -298,3 +298,5 @@ $$
     16\\
 \end{bmatrix}
 $$
+
+(use calculator to solve)

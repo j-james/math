@@ -79,3 +79,21 @@ URANUS | 19.19 AU
 NEPTUNE | 30.06 AU
 
 Currently, 1 AU = 149,597,870,700 meters, or approximately 149.6 Gm (gigameters).
+
+## Exercises
+  1. What is the eccentricity of $\frac{(y-1)^2}{16} + \frac{(x+2)^2}{25} = 1$?
+  2. Find the eccentricity of $5(x+3)^2 - 12(y-6)^2 = 60$
+  3. Which planet has the most circular orbit?
+  4. What is the perihelion and aphelion distances of Mercury?
+  5. Given the diameter of the Sun is about 1.392 Gm (gigameters), how close does Earth get to the Sun's _surface_?
+  6. The orbit of Haley's comet is 36.18 AU long and 9.12 AU wide. What is the eccentricity?
+  7. The asymptotes of a hyperbola are $y-3 = \pm \frac 23 (x+1)$ and has a vertex at $(-1,4)$. What is the eccentricity?
+  8. Name the type of conic and its eccentricity for $25y^2 - 9x^2 - 50y - 54x - 281 = 0$.
+
+A Lithotripter is an elliptical machine that emits underwater ultrahigh-frequency (UHF) shock waves from one focus to the other. It is commonly used to break up kidney stones without surgery.
+
+![Diagram of a Lithotripter](../assets/precalculus/eccentricity-and-orbits_4.jpg)
+
+If the portion below its minor axis is rotated about its major axis, an ellipsoid is formed.
+
+  9. For an ellipse that generates the ellipsoid of a lithotripter, the major axis has endpoints $(\pm8,0)$. One endpoint of the minor axis is $(0,3.5)$. Find the coordinates of the foci, and find its eccentricity.

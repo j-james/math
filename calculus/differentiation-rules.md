@@ -122,7 +122,7 @@ $$y''' = \frac{d}{dx}y'' = \frac{d}{dx}(\frac{dy'}{dx}) = \frac{d^3y}{dx^3}$$
 #### nth Derivative
 $$y^{(n)} = \frac{d}{dx}y^{n-1} = \frac{d^ny}{dx^n}$$
 
-## Examples
+### Examples
 
 Find an equation of the line tangent to the curve $y = \frac{x^2 - 1}{x^2 + 1}$ at $x = -2$
 

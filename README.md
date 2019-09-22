@@ -11,68 +11,68 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 ## AP Calculus
 
 - Limits and Continuity
-    - [ ] [[2.0] Limits Review](calculus/limits.md)
+    - [[2.0] Limits Review](calculus/limits.md)
 - Derivatives
-    - [ ] [[3.1] Definition of the Derivative](calculus/definition-of-the-derivative.md)
-    - [ ] [[3.3] Differentiation Rules](calculus/differentiation-rules.md)
-    - [ ] [[3.4] Rates of Change](calculus/rates-of-change.md)
-    - [ ] [[3.5] Derivatives of Trigonometric Functions](calculus/derivatives-of-trigonometric-functions.md)
-    - [ ] [[3.5.5] The Squeeze Theorem and Limits of Composite Functions](calculus/squeeze-theorem-and-limit-of-composite-functions.md)
-    - [ ] [[3.6] The Chain Rule](calculus/chain-rule.md) @TODO
+    - [[3.1] Definition of the Derivative](calculus/definition-of-the-derivative.md)
+    - [[3.3] Differentiation Rules](calculus/differentiation-rules.md)
+    - [[3.4] Rates of Change](calculus/rates-of-change.md)
+    - [[3.5] Derivatives of Trigonometric Functions](calculus/derivatives-of-trigonometric-functions.md)
+    - [[3.5.5] The Squeeze Theorem and Limits of Composite Functions](calculus/squeeze-theorem-and-limit-of-composite-functions.md)
+    - [[3.6] The Chain Rule](calculus/chain-rule.md) @TODO
 
 ## Honors Precalculus
 
 <!-- TODO: Write a prereq file-->
 
 - Functions and Graphs
-    - [ ] Intro to Functions
-    - [ ] Properties of Functions
-    - [ ] Absolute Value and Piecewise
-    - [ ] Transformations of Functions
+    - Intro to Functions
+    - Properties of Functions
+    - Absolute Value and Piecewise
+    - Transformations of Functions
 - Polynomial, Power, and Rational Functions
-    - [ ] Linear and Quadratic Functions
-    - [ ] Power Functions
-    - [ ] Graphing Rational Functions
-    - [ ] Division and Finding All Zeros
-    - [ ] Higher Degree Polynomials
-    - [ ] Simplifying and Solving Rational Expressions
+    - Linear and Quadratic Functions
+    - Power Functions
+    - Graphing Rational Functions
+    - Division and Finding All Zeros
+    - Higher Degree Polynomials
+    - Simplifying and Solving Rational Expressions
 - Exponential, Logistic, and Logarithmic Functions
-    - [ ] Logarithmic Functions
-    - [x] [Solving Exponential and Logs](precalculus/solving-exponential-and-logs.md)
-    - [x] [Solving Non Simple Exponential Functions](precalculus/solving-non-simple-exponential-functions.md)
-    - [ ] Applications of Exponential, Logarithmic, and Logistic Functions
+    - Logarithmic Functions
+    - [Solving Exponential and Logs](precalculus/solving-exponential-and-logs.md)
+    - [Solving Non Simple Exponential Functions](precalculus/solving-non-simple-exponential-functions.md)
+    - Applications of Exponential, Logarithmic, and Logistic Functions
 - Trigonometric Functions
-    - [ ] Angles and Arc Length
-    - [ ] [Graphs of Tangent and Reciprocal Functions](precalculus/graphs-of-tangent-and-reciprocal-functions.md)
-    - [ ] Right Triangle Trigonometry
-    - [ ] Solving Trig Equations
-    - [ ] Inverse Trig Functions
+    - Angles and Arc Length
+    - [Graphs of Tangent and Reciprocal Functions](precalculus/graphs-of-tangent-and-reciprocal-functions.md)
+    - Right Triangle Trigonometry
+    - Solving Trig Equations
+    - Inverse Trig Functions
 - Trigonometric Identities (Analytic Trigonometry)
-    - [ ] Fundamental Trig Identities
-    - [x] [Prove Trig Identities](precalculus/prove-trig-identities.md)
-    - [ ] Sum and Difference Identities
-    - [ ] Law of Sines and Cosines
-    - [ ] Multiple Angle Identities
+    - Fundamental Trig Identities
+    - [Prove Trig Identities](precalculus/prove-trig-identities.md)
+    - Sum and Difference Identities
+    - Law of Sines and Cosines
+    - Multiple Angle Identities
 - Vectors, Parametric, and Polar Equations (Applications of Trigonometry)
-    - [ ] [Vectors in the Plane](precalculus/vectors-in-the-plane.md)
-    - [ ] [Dot Product of Vectors in the Plane](precalculus/dot-product-of-vectors-in-the-plane.md)
-    - [ ] [Intro to Polar Coordinates](precalculus/intro-to-polar-coordinates.md)
+    - [Vectors in the Plane](precalculus/vectors-in-the-plane.md)
+    - [Dot Product of Vectors in the Plane](precalculus/dot-product-of-vectors-in-the-plane.md)
+    - [Intro to Polar Coordinates](precalculus/intro-to-polar-coordinates.md)
 - Systems of Matrices
-    - [x] [Matrices](precalculus/matrices.md)
-    - [x] [Partial Fractions](precalculus/partial-fractions.md)
+    - [Matrices](precalculus/matrices.md)
+    - [Partial Fractions](precalculus/partial-fractions.md)
 - Analytic Geometry (in Two and Three Dimensions)
-    - [x] [Classification and Rotation of Conics](precalculus/classification-and-rotation-of-conics.md)
-    - [ ] [Polar Equations of Conics](precalculus/polar-equations-of-conics.md)
-    - [x] [Eccentricity and Orbits](precalculus/eccentricity-and-orbits.md)
-    - [ ] [3D Space and Vectors](precalculus/3d-space-and-vectors.md)
+    - [Classification and Rotation of Conics](precalculus/classification-and-rotation-of-conics.md)
+    - [Polar Equations of Conics](precalculus/polar-equations-of-conics.md)
+    - [Eccentricity and Orbits](precalculus/eccentricity-and-orbits.md)
+    - [3D Space and Vectors](precalculus/3d-space-and-vectors.md)
 - Discrete Mathematics
-    - [x] [Permutations and Combinations](precalculus/permutations-and-combinations.md)
-    - [x] [Binomial Theorem](precalculus/binomial-theorem.md)
-    - [x] [Probability](precalculus/probability.md)
-    - [x] [Sequences](precalculus/sequences.md)
-    - [ ] [Series](precalculus/series.md)
+    - [Permutations and Combinations](precalculus/permutations-and-combinations.md)
+    - [Binomial Theorem](precalculus/binomial-theorem.md)
+    - [Probability](precalculus/probability.md)
+    - [Sequences](precalculus/sequences.md)
+    - [Series](precalculus/series.md)
 - Intro to Calculus
-    - [x] [More on Limits and using calculator for Numerical Derivatives and Integrals](precalculus/numerical-derivatives-and-integrals.md)
+    - [More on Limits and using calculator for Numerical Derivatives and Integrals](precalculus/numerical-derivatives-and-integrals.md)
 
 ## some sources
 

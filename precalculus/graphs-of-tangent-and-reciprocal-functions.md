@@ -14,7 +14,7 @@ You should be able to
 ![y  = secx and cosx]()
 ![y = cotx and tanx]()
 
-## Examples
+### Examples
 
 #### Example 1
 Graph $f(\theta) = 4\sec 2\theta +1$
@@ -26,7 +26,7 @@ Solve $\cot x = -\sqrt 3$ on $(-2\pi, 2\pi)$ (no calculator)
 
 @ANSWER
 
-## Assignment
+## Exercises
 
 ### In Class
 

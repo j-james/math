@@ -28,7 +28,7 @@ $\theta$ is directed angle from polar axis
 
 ![Polar Graphs](../assets/precalculus/intro-to-polar-coordinates_2.jpg)
 
-#### Examples
+### Examples
 
 If the point $P$ has polar coordinates $(r, \theta)$, **all other polar coordinates** of $P$ must have the form $(r, \theta + 2 \pi n)$ or $(-r, \theta + \pi + 2 \pi n)$ where $n$ is any integer.
 
@@ -39,3 +39,29 @@ $x = r\cos{\theta}, \qquad y = r \sin{\theta}$<br>
 $\tan{\theta} = \frac{y}{x}, \qquad x^2 + y^2 = r^2$
 
 ![Coordinate Conversions](../assets/precalculus/intro-to-polar-coordinates_3.jpg)
+
+### Example
+Graph $r=4\cos\theta$, then write the polar equation in rectangular form.
+
+## Exercises
+
+### In class
+  1. Find two polar coordinate pairs for the rectangular coordinate point $(-1,1)$
+  2. Write $r=4\sec\theta$ in rectangular form
+
+### Homework
+  1. For $P(3,\frac{2\pi}{3})$
+     1. Plot the point
+     2. Convert to exact rectangular coordinates
+  2. For $Q(-2,\frac \pi 4)$
+     1. Plot the point
+     2. Convert to exact rectangular coordinates
+  3. For $R(2, \frac \pi 6$
+     1. Find another polar coordinate for the point $R$ on the interval $[0,2\pi)$
+     2. Find _all_ other polar points.
+  4. Convert $(2\sqrt 3,-2)$ to polar form.
+  5. Convert $r=-3\sin\theta$ to rectangular form.
+  6. Convert $y=5$ to polar form.
+  7. Convert $r=2\sin\theta-4\cos\theta$ to rectangular form.
+  8. Convert $(x-1)^2+(y+4)^2 = 17$ to polar form.
+  9.  The location, given in polar coordinates, of two planes approaching an airport are $(4\ mi,12°)$ and $(2\ mi,72°)$. Find the distance between them.

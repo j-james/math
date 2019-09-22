@@ -41,3 +41,19 @@ $r = \frac{ek}{1 + e\cos{\theta}}$ vertical directrix right of the pole<br>
 $r = \frac{ek}{1 - e\cos{\theta}}$ vertical directrix left of the pole<br>
 $r = \frac{ek}{1 + e\sin{\theta}}$ horizontal directrix above the pole<br>
 $r = \frac{ek}{1 - e\sin{\theta}}$ horizontal directrix below the pole
+
+### Examples
+Given $r=\frac{16}{5-3\cos\theta}$, identify the conic, graph (including directrix), and write it in rectangular standard form.
+
+## Exercises
+  1. Find a polar equation for the conic with focus at the pole and eccentricity $e=7/3$ and directrix $y=-1$
+  2. Determine the type of conic and graph. $r=\frac{24}{4+2\sin\theta}$
+  3. Determine the type of conic and graph. $r=\frac{16}{3+5\cos\theta}$
+  4. Determine the type of conic and graph. $r=\frac{2}{1-\cos\theta}$
+  5. Determine the Cartesian equation (rectangular form) for the given conic. $r=\frac{4}{2-\sin\theta}$
+  6. Determine the Cartesian equation (rectangular form) for the given conic. $r=\frac{6}{1+2\cos\theta}$
+  7. Determine the Cartesian equation (rectangular form) for the given conic. $r=\frac{2}{1-\cos\theta}$
+  8. Determine the Cartesian equation (rectangular form) for the given conic. $r=\frac{4}{2-2\cos\theta}$
+  9. Write an equation for an ellipse in polar form with focus at pole and given the polar coordinates $(1.5,0),(6,\pi)$ that are on the major axis.
+  10. Write an equation for a hyperbola in polar form with focus at pole and given the polar coordinates $(-6,\frac \pi 2),(2,\frac{3\pi}{2})$ as endpoints of its transverse axis.
+  11. Write the following in polar form. $\frac{(x-4)^2}{25}+\frac{y^2}{9}=1$

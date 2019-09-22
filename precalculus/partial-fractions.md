@@ -50,3 +50,19 @@ $\frac{px+q}{(x-a)^3}$ | $\frac{A}{x-a} + \frac{B}{(x-a)^2} + \frac{C}{(x-a)^3}$
 $\frac{px^2+qx+r}{(x-a)^2(x-b)}$ | $\frac{A}{x-a} + \frac{B}{(x-a)^2} + \frac{C}{x-b}$
 $\frac{px^2+qx+r}{(x-a)(x^2+bx+c)},\ _{where\ x^2 + bx + c\ cannot\ be\ factorized}$ | $\frac{A}{x-a} + \frac{Bx+C}{x^2+bx+c}$
 $\frac{px^3+qx^2+rx+s}{(x^2+ax+b)(x^2+cx+d)},\ _{where\ (x^2+ax+b)\ and\ (x^2+cx+d)\ cannot\ be\ factorized}$ | $\frac{Ax+B}{x^2+ax+b} + \frac{Cx+D}{x^2+cx+d}$
+
+#### Example 1
+Find the partial fraction decomposition.
+$$\frac{1}{x^2-5x+6}$$
+
+#### Example 2
+Find the partial fraction decomposition.
+$$\frac{2x^3-4x-8}{x^4-16}$$
+
+#### Example 3
+Find the partial fraction decomposition.
+$$\frac{5x^2+20x+6}{x^3+2x^2+x}$$
+
+#### Example 4
+Find the partial fraction decomposition.
+$$\frac{x^4-2x^2+4x+1}{x^3-x^2-x+1}$$
