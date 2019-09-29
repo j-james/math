@@ -19,6 +19,8 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
     - [[3.5] Derivatives of Trigonometric Functions](calculus/derivatives-of-trigonometric-functions.md)
     - [[3.5.5] The Squeeze Theorem and Limits of Composite Functions](calculus/squeeze-theorem-and-limit-of-composite-functions.md)
     - [[3.6] The Chain Rule](calculus/chain-rule.md) @TODO
+    - [[3.7] Derivatives of Inverse Functions](calculus/derivatives-of-inverse-functions.md) @TODO
+    - [[3.9] Derivatives of Exponential and Logarithmic Functions](calculus/derivatives-of-exponential-and-logarithmic-functions.md)
 
 ## Honors Precalculus
 
