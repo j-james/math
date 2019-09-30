@@ -95,7 +95,7 @@ $\frac{d}{dx}\ln\lvert x \rvert = \frac{1}{x\ln e} = \frac{1}{x}$ $\qquad$ $\fra
 
 ### Differentiate $x^{\sin x}
 
-Let $y = x^{\sin x}
+Let $y = x^{\sin x}$
 
 $$\ln y = ln x^{\sin x}$$
 
