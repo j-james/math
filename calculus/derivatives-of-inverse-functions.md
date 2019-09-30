@@ -1,4 +1,4 @@
-{% include header.html %}
+{% include mathjax.html %}
 
 # Derivatives of Inverse Functions
 
