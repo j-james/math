@@ -4,23 +4,24 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 
 ## 🚧 TODOs
 - [ ] Convert notes from both first and second semester
-- [ ] Classify notes into sections outlined in this document
-- [ ] Unify image designs (import from a semi-consistent source, such as Wikimedia) <-- this is going to be ga
+- [x] Classify notes into sections outlined in this document
+- [ ] Unify image designs (import from a semi-consistent source, such as Wikimedia) <-- this is going to be a large undertaking
 - [ ] Make "Learning Targets" collapsed by default
 
 ## AP Calculus
 
 - Limits and Continuity
-    - [[2.0] Limits Review](calculus/limits.md)
+    - [[2.0] Limits Review](calculus/2-0-limits.md)
 - Derivatives
-    - [[3.1] Definition of the Derivative](calculus/definition-of-the-derivative.md)
-    - [[3.3] Differentiation Rules](calculus/differentiation-rules.md)
-    - [[3.4] Rates of Change](calculus/rates-of-change.md)
-    - [[3.5] Derivatives of Trigonometric Functions](calculus/derivatives-of-trigonometric-functions.md)
-    - [[3.5.5] The Squeeze Theorem and Limits of Composite Functions](calculus/squeeze-theorem-and-limit-of-composite-functions.md)
-    - [[3.6] The Chain Rule](calculus/chain-rule.md) @TODO
-    - [[3.7] Derivatives of Inverse Functions](calculus/derivatives-of-inverse-functions.md) @TODO
-    - [[3.9] Derivatives of Exponential and Logarithmic Functions](calculus/derivatives-of-exponential-and-logarithmic-functions.md)
+    - [[3.1 + 3.2] Definition of the Derivative](calculus/3-1-2-definition-of-the-derivative.md)
+    - [[3.3] Differentiation Rules](calculus/3-3-differentiation-rules.md)
+    - [[3.4] Rates of Change](calculus/3-4-rates-of-change.md)
+    - [[3.5] Derivatives of Trigonometric Functions](calculus/3-5-derivatives-of-trigonometric-functions.md)
+    - [[3.5.5] The Squeeze Theorem and Limits of Composite Functions](calculus/3-5-5-squeeze-theorem-and-limit-of-composite-functions.md)
+    - [[3.6] The Chain Rule](calculus/3-6-chain-rule.md) @TODO
+    - [[3.8] Derivatives of Inverse Functions](calculus/3-8-derivatives-of-inverse-functions.md) @TODO
+    - [[3.9] Derivatives of Exponential and Logarithmic Functions](calculus/3-9-derivatives-of-exponential-and-logarithmic-functions.md)
+- Applications of Derivatives
 
 ## Honors Precalculus
 

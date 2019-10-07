@@ -24,14 +24,14 @@ provided the limit exists.
 ### Derivative at a Point
 
 The derivative of the function $f$ at the point $x = a$ is
-$$f'(xa) = \lim_{x\to a} \frac{f(x)-f(a)}{x-a}$$
+$$f'(a) = \lim_{x\to a} \frac{f(x)-f(a)}{x-a}$$
 provided the limit exists.
 
 ### The Derivative Function
 
 What if we wanted to find the slope at any point, a functions of slopes, rather than slope at a particular point?
 
-The derivative of the function $f$ with respect to the variable $x$ is the function $f'$ whose value at $x$ is
+The derivative of the function $f$ with respect to the variable $x$ is the function $f'$ whose value at $x$ is<br>
 $$f'(x) = \lim_{h\to 0} \frac{f(x+h)-f(x)}{h}$$
 provided the limit exists.
 
@@ -55,16 +55,18 @@ $$\frac{d}{dx}f(x) = \frac{df}{dx} = f'(x) = \frac{d}{dx}y = \frac{dy}{dx} = y'$
 
 Despite limits dealing with _numbers_, and $\infty$ not considered as one, mathmatical standard is to write the slope as $\infty$ in order to give more detail to the answer.
 
+NOTE: Remember that for a derivative to exist at a point, the derivative (in other words, the limit of difference quotient) must exist as a number, and from the left and from the right must be the same.
+
 ![Infinity](../assets/calculus/definition-of-the-derivative_6.gif)
 
-NOTE: Remember that for a derivative to exist at a point, the derivative (in other words, the limit of difference quotient) must exist as a number, and from the left and from the right must be the same.
+The limits for graphs II and III are $-\infty$ and $\infty$, respectively. It doesn't exist for I and IV.
 
 ### Working Definitions
 
 #### Differentiability Implies Continuity
 If $f$ has a derivative at $x = a$, then $f$ is continuous at $x = a$.
 
-#### Differentiability Implies Local Linearly
+#### Differentiability Implies Local Linearity
 A differentiable function resembles its own tangent close (zoomed in) to some input value $a$.
 
 #### Numerical Derivative
