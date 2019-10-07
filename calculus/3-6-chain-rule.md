@@ -8,7 +8,7 @@ You will be able to
 - [ ] Differentiate composite functions using the chain rule
 - [ ] ~~Find slopes of parametric functions~~
 
-![Image of a Chain](../assets/calculus/chain-rule_1.jpg)
+![Image of a Chain](../assets/calculus/3-6-chain-rule_1.jpg)
 
 ## The Chain Rule
 

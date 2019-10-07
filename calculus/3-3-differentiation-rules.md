@@ -75,7 +75,7 @@ $$g'(x) = 3x^2$$
 
 <!-- See a pattern yet? If not, know that the derivative of $x^4$ is $4x^3$. You should be able to write a general rule for this. However, it's not enough yet - we need to prove these observations _algebraically_.-->
 
-![Power Rule](../assets/calculus/differentiation-rules_1.png)
+![Power Rule](../assets/calculus/3-3-differentiation-rules_1.png)
 
 #### Definition
 If $f(x) = x^n$ is a power function, with non-zero real number $n$, then

@@ -19,7 +19,7 @@ The slope of the curve $y = f(x)$ at the point $P(a,f(a))$ is the number
 $$m = \lim_{h\to 0} \frac{f(a+h)-f(a)}{h}$$
 provided the limit exists.
 
-![Slope of a Curve at a point](../assets/calculus/definition-of-the-derivative_1.jpg)
+![Slope of a Curve at a point](../assets/calculus/3-1-2-definition-of-the-derivative_1.jpg)
 
 ### Derivative at a Point
 
@@ -35,7 +35,7 @@ The derivative of the function $f$ with respect to the variable $x$ is the funct
 $$f'(x) = \lim_{h\to 0} \frac{f(x+h)-f(x)}{h}$$
 provided the limit exists.
 
-![The Derivative Function](../assets/calculus/definition-of-the-derivative_2.jpg)
+![The Derivative Function](../assets/calculus/3-1-2-definition-of-the-derivative_2.jpg)
 
 #### Other Notations for derivatives of $y = f(x)$
 $$\frac{d}{dx}f(x) = \frac{df}{dx} = f'(x) = \frac{d}{dx}y = \frac{dy}{dx} = y'$$
@@ -43,13 +43,13 @@ $$\frac{d}{dx}f(x) = \frac{df}{dx} = f'(x) = \frac{d}{dx}y = \frac{dy}{dx} = y'$
 ### How $f'(a)$ fails to exist
 
 #### Left derivative not equal to right derivative (a corner)
-![A Corner](../assets/calculus/definition-of-the-derivative_3.jpg)
+![A Corner](../assets/calculus/3-1-2-definition-of-the-derivative_3.jpg)
 
 #### A point where the function is discontinuous (discontinuity)
-![Discontinuity](../assets/calculus/definition-of-the-derivative_4.jpg)
+![Discontinuity](../assets/calculus/3-1-2-definition-of-the-derivative_4.jpg)
 
 #### Left and right slopes approach opposite $\infty$ (a cusp)
-![A Cusp](../assets/calculus/definition-of-the-derivative_5.gif)
+![A Cusp](../assets/calculus/3-1-2-definition-of-the-derivative_5.gif)
 
 ### Note: (todo)
 
@@ -57,7 +57,7 @@ Despite limits dealing with _numbers_, and $\infty$ not considered as one, mathm
 
 NOTE: Remember that for a derivative to exist at a point, the derivative (in other words, the limit of difference quotient) must exist as a number, and from the left and from the right must be the same.
 
-![Infinity](../assets/calculus/definition-of-the-derivative_6.gif)
+![Infinity](../assets/calculus/3-1-2-definition-of-the-derivative_6.gif)
 
 The limits for graphs II and III are $-\infty$ and $\infty$, respectively. It doesn't exist for I and IV.
 
@@ -79,8 +79,8 @@ $$f'(a) = \lim_{h\to 0} \frac{f(a)=f(a-h)}{h}$$
 
 ### Graphing $f'$ from a graph of $f$
 
-![f' from f](../assets/calculus/definition-of-the-derivative_7.gif)
+![f' from f](../assets/calculus/3-1-2-definition-of-the-derivative_7.gif)
 
 ### Determine $f$, $f'$, and $\frac{d}{dx}f'$
 
-![Determine f, f', and f''](../assets/calculus/definition-of-the-derivative_8.gif)
+![Determine f, f', and f''](../assets/calculus/3-1-2-definition-of-the-derivative_8.gif)
