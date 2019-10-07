@@ -43,6 +43,20 @@ $$\lim_{x\to c}h(x) = L$$
 
 ![Image](../assets/calculus/squeeze-theorem-and-limit-of-composition-function.md)
 
+## Examples
+
+### Example 1
+Show the following analytically
+$$\lim_{x\to 0}(x^2 \sin(1/x)) = 0$$
+We know the following, $-x^2 \leq x^2 \sin(\frac 1x) \leq x^2$<br>
+_and_ $\lim_{x\to 0}-x^2 \leq \lim_{x\to 0}(x^2\sin(\frac 1x)) \leq \lim_{x\to 0}x^2$<br>
+$\lim_{x\to 0}-x^2 = 0$ _and_ $\lim_{x\to 0}x^2 = 0$, so by Squeeze Theorem<br>
+$\lim_{x\to 0}(x^2\sin\frac 1x) = 0$
+
+### Example 2
+$$\lim_{\theta\to 0}\frac{1}{\cos\theta}\geq\lim_{\theta\to 0}\frac{\sin\theta}{\theta}\geq\lim_{\theta\to 0}\cos\theta$$
+$$1 \geq\ ? \geq 1$$
+
 ## Exercises
 
   1. Evaluate $\lim_{x\to 1} \arcsin(\frac{1-\sqrt x}{1-x})$
