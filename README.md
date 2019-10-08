@@ -24,6 +24,7 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - Applications of Derivatives
   - [[4.1] Extreme Values of Functions](calculus/4-1-extreme-values-of-functions.md)
   - [[4.2] Mean Value Theorem](calculus/4-2-mean-value-theorem.md)
+  - [[4.3] Using Derivatives to Analyze Graphs of Functions](calculus/4-3-using-derivatives-to-analyze-graphs-of-fuctions.md)
 
 ## Honors Precalculus
 
