@@ -29,6 +29,8 @@ The graph of a differentiable funciton $y = f(x)$ is
 ### Point of Inflection
 A point where the graph of a function has a tangent line (is differentiable) and where the concavity changes is a point of inflection.
 
+![Concavity and Inflection](../assets/calculus/4-3-using-derivatives-to-analyze-graphs-of-functions_1.jpg)
+
 ### Second Derivative Test for Local Extrema
  1. If $f'(c) = 0$ and $f''(c) < 0$$, then $f$ has a local maximum at $x = c$.
  2. If $f'(c) = 0$ and $f''(c) > 0$$, then $f$ has a local minimum at $x = c$.
