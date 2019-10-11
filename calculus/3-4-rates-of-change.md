@@ -1,6 +1,6 @@
 {% include mathjax.html %}
 
-# Rates of Change
+# 3-4 Rates of Change
 
 ## Learning Targets
 

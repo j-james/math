@@ -1,6 +1,6 @@
 {% include mathjax.html %}
 
-# Chain Rule
+# 3-6 Chain Rule
 
 ## Learning Targets
 

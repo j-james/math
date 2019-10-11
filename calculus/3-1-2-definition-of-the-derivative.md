@@ -1,6 +1,6 @@
 {% include mathjax.html %}
 
-# Definition of the Derivative and Differentiability
+# 3-1 and 3-2 Definition of the Derivative and Differentiability
 
 ## Learning Targets
 

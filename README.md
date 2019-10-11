@@ -11,20 +11,21 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 ## AP Calculus
 
 - Limits and Continuity
-  - [[2.0] Limits Review](calculus/2-0-limits.md)
+  - [[2-0] Limits Review](calculus/2-0-limits.md)
 - Derivatives
-  - [[3.1 + 3.2] Definition of the Derivative](calculus/3-1-2-definition-of-the-derivative.md)
-  - [[3.3] Differentiation Rules](calculus/3-3-differentiation-rules.md)
-  - [[3.4] Rates of Change](calculus/3-4-rates-of-change.md)
-  - [[3.5] Derivatives of Trigonometric Functions](calculus/3-5-derivatives-of-trigonometric-functions.md)
-  - [[3.5.5] The Squeeze Theorem and Limits of Composite Functions](calculus/3-5-5-squeeze-theorem-and-limit-of-composite-functions.md)
-  - [[3.6] The Chain Rule](calculus/3-6-chain-rule.md)
-  - [[3.8] Derivatives of Inverse Functions](calculus/3-8-derivatives-of-inverse-functions.md) @TODO
-  - [[3.9] Derivatives of Exponential and Logarithmic Functions](calculus/3-9-derivatives-of-exponential-and-logarithmic-functions.md)
+  - [[3-1 + 3-2] Definition of the Derivative](calculus/3-1-2-definition-of-the-derivative.md)
+  - [[3-3] Differentiation Rules](calculus/3-3-differentiation-rules.md)
+  - [[3-4] Rates of Change](calculus/3-4-rates-of-change.md)
+  - [[3-5] Derivatives of Trigonometric Functions](calculus/3-5-derivatives-of-trigonometric-functions.md)
+  - [[3-5-5] The Squeeze Theorem and Limits of Composite Functions](calculus/3-5-5-squeeze-theorem-and-limit-of-composite-functions.md)
+  - [[3-6] The Chain Rule](calculus/3-6-chain-rule.md)
+  - [[3-8] Derivatives of Inverse Functions](calculus/3-8-derivatives-of-inverse-functions.md) @TODO
+  - [[3-9] Derivatives of Exponential and Logarithmic Functions](calculus/3-9-derivatives-of-exponential-and-logarithmic-functions.md)
 - Applications of Derivatives
-  - [[4.1] Extreme Values of Functions](calculus/4-1-extreme-values-of-functions.md)
-  - [[4.2] Mean Value Theorem](calculus/4-2-mean-value-theorem.md)
-  - [[4.3] Using Derivatives to Analyze Graphs of Functions](calculus/4-3-using-derivatives-to-analyze-graphs-of-fuctions.md)
+  - [[4-1] Extreme Values of Functions](calculus/4-1-extreme-values-of-functions.md)
+  - [[4-2] Mean Value Theorem](calculus/4-2-mean-value-theorem.md)
+  - [[4-3] Using Derivatives to Analyze Graphs of Functions](calculus/4-3-using-derivatives-to-analyze-graphs-of-fuctions.md)
+  - [[4-6] Related Rates](calculus/4-6-related-rates.md)
 
 ## Honors Precalculus
 

@@ -1,6 +1,6 @@
 {%  include mathjax.html %}
 
-# 4.1 Extreme Values of Functions
+# 4-1 Extreme Values of Functions
 
 ## Learning Targets
 
@@ -71,3 +71,5 @@ $$f(-2) = \sqrt[3]{4}$$
 $$f(3) = \sqrt[3]{9}$$
 Absolute Min value is 0<br>
 Absolute Max value is $\sqrt[3]{9}$.
+
+[==>](4-2-mean-value-theorem.md)

@@ -1,6 +1,6 @@
 {% include mathjax.html %}
 
-# Derivatives of Trigonometric Functions
+# 3-5 Derivatives of Trigonometric Functions
 
 ## Learning Targets
 

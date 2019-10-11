@@ -1,6 +1,6 @@
 {% include mathjax.html %}
 
-# Derivatives of Exponential and Logarithmic Functions
+# 3-9 Derivatives of Exponential and Logarithmic Functions
 
 ## Learning Targets
 
@@ -111,3 +111,4 @@ $$\frac{dy}{dx} = y(\cos x \ln x + \sin x \frac{1}{x})$$
 
 $$\frac{dy}{dx} = x^{\sin x}(\cos x \ln x + \sin x \frac{1}{x})$$
 
+[==>](4-1-extreme-values-of-functions.md)

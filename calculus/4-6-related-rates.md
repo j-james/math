@@ -1,6 +1,6 @@
 {% include mathjax.html %}
 
-# 4.6 Related Rates
+# 4-6 Related Rates
 
 ## Learning Targets
 

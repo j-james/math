@@ -1,6 +1,6 @@
 {% include mathjax.html %}
 
-# Squeeze Theorem and Limit of Composite Functions
+# 3-5-5 Squeeze Theorem and Limit of Composite Functions
 
 ## Learning Targets
 

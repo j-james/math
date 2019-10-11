@@ -1,6 +1,6 @@
 {% include mathjax.html %}
 
-# 4.3 Using Derivatives to Analyze Graphs of Functions
+# 4-3 Using Derivatives to Analyze Graphs of Functions
 
 ## Learning Targets
 
@@ -34,3 +34,5 @@ A point where the graph of a function has a tangent line (is differentiable) and
 ### Second Derivative Test for Local Extrema
  1. If $f'(c) = 0$ and $f''(c) < 0$$, then $f$ has a local maximum at $x = c$.
  2. If $f'(c) = 0$ and $f''(c) > 0$$, then $f$ has a local minimum at $x = c$.
+
+[==>](4-6-related-rates.md)
