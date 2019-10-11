@@ -42,4 +42,6 @@ A trough has a triangular cross section. The trough is 6ft across the top, 3ft d
 
 ![Trough problem](../assets/calculus/4-6-related-rates_1.jpg)
 
+$V = \frac 12 xyz \to V = \frac 12 xy(10) \to V = 5xy$
+
 [==>](4.7.md)
