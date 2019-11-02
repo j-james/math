@@ -22,3 +22,5 @@ $$f'(x) = \lim_{h\to 0} \frac{\sin(x+h) - \sin x}{h}$$
 $$f'(x) = \lim_{h\to 0} \frac{\sin x \cos h + \cos x \sin h - \sin x}{h}$$
 $$f'(x) = \lim_{h\to 0} \frac{\sin x (\cos h -1)}{h} + \lim_{h\to 0}\frac{\cos x \sin h}{h}$$
 $$f'(x) = \cos x$$
+
+[==>](3-5-5-squeeze-theorem-and-limit-of-composite-functions.md)

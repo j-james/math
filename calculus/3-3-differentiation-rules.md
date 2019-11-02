@@ -132,3 +132,5 @@ $$\frac{dy}{dx}\rvert_{x = -2} = -\frac{8}{25}$$
 $$y = \frac{(-2)^2-1}{(-2)^2+1}$$
 $$y = \frac 35$$
 $$z = -\frac{8}{25}(x+2) + \frac 35$$
+
+[==>](3-4-rates-of-change.md)

@@ -58,3 +58,5 @@ $$g'(t) = 2\sec^2(5-\sin 2t)(-\cos 2t)$$
 Find the derivative of the following. Note: $\frac{d}{dx}F(x) = F'(x) = f(x)$
 $$f(\theta) = \cos^2 2\theta$$
 $$F(x) = (3x - 1)^4(2x + 1)^{-1}$$
+
+[==>](3-8-derivatives-of-inverse-functions.md)

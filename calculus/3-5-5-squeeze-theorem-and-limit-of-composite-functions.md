@@ -66,3 +66,5 @@ $$1 \geq\ ? \geq 1$$
   5. For the graphs below, <!--TODO-->
   6. Functions $f$, $g$, and $h$ are twice-differentiable functions with $g(2) = h(2) = 4$. The line $y = 4 + \frac 23 (x-2)$ is tangent to both the graph of $g$ at $x=2$ and the graph of $h$ at $x=2$.<br>
    It is known that $g(x) \leq h(x)$ for $1 < x < 3$. Let $k$ be a function satisfying $g(x)\leq k(x)\leq h(x)$ for $1 < x < 3$. Is $k$ continuous at $x=2$? Justify your answer.
+
+[==>](3-6-chain-rule.md)

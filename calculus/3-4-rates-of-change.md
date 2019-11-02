@@ -43,3 +43,5 @@ A particle moves along a line so that its position at any time $t \geq 0$ is giv
   4. Find the acceleration of the particle after 4 seconds.
   5. Find the distance travelled during the first 5 seconds.
   6. When is the particle speeding up?
+
+[==>](3-5-derivatives-of-trigonometric-functions.md)
