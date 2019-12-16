@@ -19,13 +19,18 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
   - [[3-5] Derivatives of Trigonometric Functions](calculus/3-5-derivatives-of-trigonometric-functions.md)
   - [[3-5-5] The Squeeze Theorem and Limits of Composite Functions](calculus/3-5-5-squeeze-theorem-and-limit-of-composite-functions.md)
   - [[3-6] The Chain Rule](calculus/3-6-chain-rule.md)
-  - [[3-8] Derivatives of Inverse Functions](calculus/3-8-derivatives-of-inverse-functions.md) @TODO
+  - [[3-8] Derivatives of Inverse Functions](calculus/3-8-derivatives-of-inverse-functions.md)
   - [[3-9] Derivatives of Exponential and Logarithmic Functions](calculus/3-9-derivatives-of-exponential-and-logarithmic-functions.md)
 - Applications of Derivatives
   - [[4-1] Extreme Values of Functions](calculus/4-1-extreme-values-of-functions.md)
   - [[4-2] Mean Value Theorem](calculus/4-2-mean-value-theorem.md)
   - [[4-3] Using Derivatives to Analyze Graphs of Functions](calculus/4-3-using-derivatives-to-analyze-graphs-of-fuctions.md)
   - [[4-6] Related Rates](calculus/4-6-related-rates.md)
+- The Definite Integral
+  - [5-1 Estimating with Finite Sums](calculus/5-1-estimating-with-finite-sums.md)
+  - [5-2 Riemann Sums and Definite Integrals](calculus/5-2-riemann-sums-and-definite-integrals.md)
+- Applications of Definite Integrals
+  - [[7-3] Volume as an Integral](calculus/7-3_volume-as-an-integral.md)
 
 ## Honors Precalculus
 
