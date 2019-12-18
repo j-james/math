@@ -58,4 +58,4 @@ Again, the surface area can be integrated in terms of $x$ or $y$, depending on t
 
 $$dA = 2\pi\ f(x) \sqrt{1+(\frac{dy}{dx})^2} = 2\pi\ x\ \sqrt{1+(\frac{dx}{dy})^2}$$
 
-When using the surface area formula, don't forget to add the area of the bottom and top bases.
+When using the surface area formula, don't forget to add the area of the bottom and top bases, if necessary.

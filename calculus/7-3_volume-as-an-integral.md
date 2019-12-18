@@ -1,6 +1,6 @@
 {% include mathjax.html %}
 
-# Volume as an Integral
+# 7-3 Volume as an Integral
 
 ## Learning Targets
 
