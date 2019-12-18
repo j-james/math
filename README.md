@@ -23,7 +23,9 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 - The Definite Integral
   - [5-1 Estimating with Finite Sums](calculus/5-1-estimating-with-finite-sums.md)
   - [5-2 Riemann Sums and Definite Integrals](calculus/5-2-riemann-sums-and-definite-integrals.md)
-- [current unit] Applications of Definite Integrals
+- [current unit] Differential Equations and Mathematical Modeling
+  - [[6-1] Slope Fields and Euler's Method](calculus/6-1_slope-fields-and-eulers-method.md)
+- [also current unit] Applications of Definite Integrals
   - [[7-3] Volume as an Integral](calculus/7-3_volume-as-an-integral.md)
   - [[7-4] Finding the Length of a Curve](calculus/7-4_length-of-a-curve.md)
 
