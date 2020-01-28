@@ -4,6 +4,8 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
 
 ## AP Calculus
 
+[Study Guide (check me out!)](calculus/study-guide.md)
+
 - Limits and Continuity
   - [[2-0] Limits Review](calculus/2-0-limits.md)
 - Derivatives
@@ -20,14 +22,28 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
   - [[4-2] Mean Value Theorem](calculus/4-2-mean-value-theorem.md)
   - [[4-3] Using Derivatives to Analyze Graphs of Functions](calculus/4-3-using-derivatives-to-analyze-graphs-of-fuctions.md)
   - [[4-6] Related Rates](calculus/4-6-related-rates.md)
+---
 - The Definite Integral
-  - [5-1 Estimating with Finite Sums](calculus/5-1-estimating-with-finite-sums.md)
-  - [5-2 Riemann Sums and Definite Integrals](calculus/5-2-riemann-sums-and-definite-integrals.md)
-- [current unit] Differential Equations and Mathematical Modeling
+  - [[5-1] Estimating with Finite Sums](calculus/5-1-estimating-with-finite-sums.md)
+  - [[5-2] Riemann Sums and Definite Integrals](calculus/5-2-riemann-sums-and-definite-integrals.md)
+  - [5-5] The Trapezoidal Rule
+  - [[5-3] Definite Integrals and Antiderivatives](5-3-integrals-and-antiderivatives.md)
+  - [5-4] Fundamental Theorem of Calculus
+  - [5-6] The Indefinite Integral
+  - [5-7] Implicit Differentiation and Separation of Variables
+- [current unit] Antidifferentiation and Mathematical Modeling
   - [[6-1] Slope Fields and Euler's Method](calculus/6-1_slope-fields-and-eulers-method.md)
+  - [6-2] Antidifferentiation by Substitution
+  - [6-3] Antidifferentiation by Parts
+  - [6-4] Antidifferentiation by Trigonometric Identities
+  - [6-5] Growth and Decay
 - [also current unit] Applications of Definite Integrals
   - [[7-3] Volume as an Integral](calculus/7-3_volume-as-an-integral.md)
   - [[7-4] Finding the Length of a Curve](calculus/7-4_length-of-a-curve.md)
+  - [[7-5] Work and Force](calculus/7-5_work-and-force.md)
+- [[?-?] L'Hopital's Rule](calculus/8-2_lhopitals-rule.md)
+---
+- [bc unit] Sequences and Improper Integrals
 
 ## Honors Precalculus
 
