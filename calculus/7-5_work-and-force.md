@@ -1,4 +1,4 @@
-{% mathjax.html %}
+{% include mathjax.html %}
 
 # 7-5 Applications of Integrals
 
