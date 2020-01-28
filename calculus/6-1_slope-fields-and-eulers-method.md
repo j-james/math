@@ -5,10 +5,10 @@
 ## Learning Targets
 
 You will be able to
-- Find general and specific solutions to differentiable equations
-- Be able to write solutions in integral form
-- Draw a slope field for a differential equation by hand
-- Use Euler's Method to find a solution to a differential equation at a particular input value
+- [ ] Find general and specific solutions to differentiable equations
+- [ ] Be able to write solutions in integral form
+- [ ] Draw a slope field for a differential equation by hand
+- [ ] Use Euler's Method to find a solution to a differential equation at a particular input value
 
 ## Concepts / Definitions
 
@@ -57,4 +57,4 @@ For each increment,
 - Increase $x$ by $\Delta x$
 - Increase $y$ by the slope times $\Delta x$
 - (note that $\Delta x$ can be negative)
-- Repeat process with new point.
+- Repeat the process with a new point.

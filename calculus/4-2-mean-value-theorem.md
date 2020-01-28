@@ -5,7 +5,7 @@
 ## Learning Targets
 
 You will be able to
-- Apply the Mean Value Theorem and find the intervale on which a function is increasing or decreasing
+- [ ] Apply the Mean Value Theorem and find the intervale on which a function is increasing or decreasing
 
 ## Concepts / Definitions
 

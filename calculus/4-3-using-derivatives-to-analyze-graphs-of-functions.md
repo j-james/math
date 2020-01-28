@@ -5,8 +5,8 @@
 ## Learning Targets
 
 You will be able to
-- Use first and second derivatives to identify extrema and points of inflection
-- Use first and second derivatives to analyze and graph functions
+- [ ] Use first and second derivatives to identify extrema and points of inflection
+- [ ] Use first and second derivatives to analyze and graph functions
 
 ## Concepts / Definitions
 

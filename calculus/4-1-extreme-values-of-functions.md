@@ -5,8 +5,8 @@
 ## Learning Targets
 
 You will be able to
-- Identify absolute/global and local/relative extreme values
-- Find absolute/global and local/relative extreme values
+- [ ] Identify absolute/global and local/relative extreme values
+- [ ] Find absolute/global and local/relative extreme values
 
 ## Concepts / Definitions
 

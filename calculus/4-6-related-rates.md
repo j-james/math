@@ -5,7 +5,7 @@
 ## Learning Targets
 
 You will be able to
-- Solve application problems involving multiple rates
+- [ ] Solve application problems involving multiple rates
 
 ## Concepts / Definitions
 
