@@ -22,7 +22,9 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
   - [[4-2] Mean Value Theorem](calculus/4-2-mean-value-theorem.md)
   - [[4-3] Using Derivatives to Analyze Graphs of Functions](calculus/4-3-using-derivatives-to-analyze-graphs-of-fuctions.md)
   - [[4-6] Related Rates](calculus/4-6-related-rates.md)
+
 ---
+
 - The Definite Integral
   - [[5-1] Estimating with Finite Sums](calculus/5-1-estimating-with-finite-sums.md)
   - [[5-2] Riemann Sums and Definite Integrals](calculus/5-2-riemann-sums-and-definite-integrals.md)
@@ -42,7 +44,9 @@ Notes from Scott Druker's calculus classes. Written in a combination of Markdown
   - [[7-4] Finding the Length of a Curve](calculus/7-4_length-of-a-curve.md)
   - [[7-5] Work and Force](calculus/7-5_work-and-force.md)
 - [[?-?] L'Hopital's Rule](calculus/8-2_lhopitals-rule.md)
+
 ---
+
 - [bc unit] Sequences and Improper Integrals
 
 ## Honors Precalculus
