@@ -2,6 +2,9 @@
 
 # AP Calculus ABC Study Guide
 
+Testing AsciiMath $int e^-x^2 dx$ and MathJax $\int e^{-x^{2}}$.
+
+How do they work?
 
 ## Calculus A
 Calculus A includes
@@ -35,7 +38,9 @@ Calculus A includes
 
 #### Trigonometric Functions
 
-###
+### Concavity and the Double Derivative
+
+**Concave Down**
 
 ## Calculus B
 - Integrals and Integration Techniques
@@ -47,12 +52,17 @@ Calculus A includes
 
 ### Fundamental Theorem of Calculus
 
+### Integrals
 
+#### Operations of Integrals
+
+$$\int_a^b (f(x) \pm 5)dx = \int_a^b f(x)dx \pm \int_a^b 5dx$$
+
+$$\int_a^b (5*f(x))dx = 5\int_a^b f(x)dx$$
 
 ### Integration
 
 #### By Substitution
-
 
 **Tabular** integration is a
 
