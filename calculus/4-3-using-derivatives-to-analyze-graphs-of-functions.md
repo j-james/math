@@ -17,7 +17,7 @@ Suppose that $c$ is a critical number of a continuous function $f$.
  3. If $f'$ does not change sign at $c$, then $f$ has no local maximum or minimum at $c$.
 
 ### Concavity
-The graph of a differentiable funciton $y = f(x)$ is
+The graph of a differentiable function $y = f(x)$ is
  1. Concave up on an open interval $I$ if $y'$ is increasing on $I$
  2. Concave down on an open interval $I$ if $y'$ is decreasing on $I$
 
