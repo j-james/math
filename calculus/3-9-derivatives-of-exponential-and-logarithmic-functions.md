@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # 3-9 Derivatives of Exponential and Logarithmic Functions
 

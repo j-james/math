@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # More on Limits and calculating Numerical Derivatives / Integrals
 

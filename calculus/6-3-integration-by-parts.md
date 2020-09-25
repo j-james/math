@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # 6-3 Integration by Parts
 
@@ -41,4 +43,3 @@ Order in which to calculate
 $$\int_0^1 \frac{2x + 1}{e^x} dx$$
 
 $$\int e^{2x} \sin x dx$$
-

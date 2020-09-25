@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # Dot Product of Vectors in the Plane
 

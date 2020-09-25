@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # Intro to Polar coordinates
 

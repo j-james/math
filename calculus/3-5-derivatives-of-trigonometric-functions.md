@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # 3-5 Derivatives of Trigonometric Functions
 

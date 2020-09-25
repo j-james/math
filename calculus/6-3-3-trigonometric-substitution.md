@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # 6-3-3 Trigonometric Substitution
 
@@ -28,4 +30,3 @@ $$4\int \cos^2\theta d\theta$$
 $$2[\sin\theta\cos\theta + \theta] + C$$
 
 $$2[\frac x2  + \arcsin \frac x2] + C$$
-

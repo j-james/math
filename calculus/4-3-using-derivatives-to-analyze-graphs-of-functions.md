@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # 4-3 Using Derivatives to Analyze Graphs of Functions
 

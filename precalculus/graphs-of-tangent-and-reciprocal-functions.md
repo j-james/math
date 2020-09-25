@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # Graphs of Tangent and Reciprocal Functions
 

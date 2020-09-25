@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # 3-1 and 3-2 Definition of the Derivative and Differentiability
 

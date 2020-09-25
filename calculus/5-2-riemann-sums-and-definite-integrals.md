@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # 5-2 Riemann Sums and Definite Integrals
 

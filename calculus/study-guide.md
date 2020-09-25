@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # AP Calculus ABC Study Guide
 
@@ -148,7 +150,9 @@ Calculus C includes
 ## Example
 
 ```
-{% include mathjax.html %}
+---
+layout: default
+---
 # Unit-Chapter Title
 
 ## Learning Targets

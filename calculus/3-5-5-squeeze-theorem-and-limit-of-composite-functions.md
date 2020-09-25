@@ -1,4 +1,6 @@
-{% include mathjax.html %}
+---
+layout: default
+---
 
 # 3-5-5 Squeeze Theorem and Limit of Composite Functions
 
