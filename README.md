@@ -1,10 +1,15 @@
 # math
 
-Notes from Scott Druker's calculus classes. Written in a combination of Markdown, HTML, and LaTeX.
+Notes from Bainbridge High School's calculus classes. Written in a combination of Markdown, HTML, and LaTeX.
+
+## Multi-Variable Calculus
+
+### Vectors and Matrices
+- [Vectors, Determinants, and Planes](multi-variable-calculus/vectors.md)
+- [Matrices and Systems of Equations](multi-variable-calculus/matrices.md)
+- Parametric Equations for Curves
 
 ## AP Calculus
-
-[Study Guide (check me out!)](calculus/study-guide.md)
 
 - Limits and Continuity
   - [[2-0] Limits Review](calculus/2-0-limits.md)
